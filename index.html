@@ -12,7 +12,7 @@ layout: default
 				{% assign post = site.posts.first %}
 				<div class="big-item">
 					<div class="big-item-img">
-						<img src='/uploads/{{ post.thumb }}'>
+						<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 					</div>
 					<div class="big-item-title">
 						<h3>{{ post.title }}</h3>
