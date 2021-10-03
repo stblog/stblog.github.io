@@ -26,7 +26,8 @@
     margin-bottom: 30px;
 }
 .top-posts {
-	background: #1c1c1c;
+    background: #1c1c1c url(/uploads/bg.jpg);
+    background-size: contain;
     padding: 15px 0;
 }
 footer {
