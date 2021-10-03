@@ -1,1 +1,62 @@
-tanks
+---
+layout: default
+---
+
+
+
+{% for post in site.posts %} 
+
+<div class="top-posts">
+	<div class="container">
+		<div class="row">
+			
+			<div class="col-sm-9">
+				{% if forloop.index == 1 %}
+				<div class="big-item">
+					<div class="big-item-img">
+						<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
+					</div>
+					<div class="big-item-title">
+						<h3>{{ post.title }}</h3>
+						<time datetime='{{ post.date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date|date:"%d.%m.%Y" }}</time>
+						
+					</div>
+				</div>
+				{% endif %}
+			</div>
+			
+			<div class="col-sm-3">
+				{% if forloop.index == 2 %}
+				<div class="row">
+					<div class="col-sm-12 mini-one">
+						<div class="mini-item">
+							<div class="mini-item-img">
+								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
+							</div>
+							<div class="mini-item-title">
+								<h3>{{ post.title }}</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endif %}
+				{% if forloop.index == 3 %}
+				<div class="row">
+					<div class="col-sm-12 mini-two">
+						<div class="mini-item">
+							<div class="mini-item-img">
+								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
+							</div>
+							<div class="mini-item-title">
+								<h3>{{ post.title }}</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+</div>
+
+{% endfor %}
