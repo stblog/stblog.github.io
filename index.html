@@ -4,13 +4,12 @@ layout: default
 
 
 
-{% for post in site.posts %} 
-123
+
 <div class="top-posts">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-9">
-				{% if forloop.index == 1 %}
+				{% assign post = site.posts.first %}
 				<div class="big-item">
 					<div class="big-item-img">
 						<img src='/uploads/{{ post.thumb }}'>
@@ -20,12 +19,12 @@ layout: default
 						<time datetime='{{ post.date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date|date:"%d.%m.%Y" }}</time>
 					</div>
 				</div>
-				{% endif %}
+				
 			</div>
 			<div class="col-sm-3">
 				<div class="row">
 					<div class="col-sm-12 mini-one">
-						{% if forloop.index == 2 %}
+						
 						<div class="mini-item">
 							<div class="mini-item-img">
 								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
@@ -34,12 +33,12 @@ layout: default
 								<h3>{{ post.title }}</h3>
 							</div>
 						</div>
-						{% endif %}
+						
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-12 mini-two">
-						{% if forloop.index == 3 %}
+						
 						<div class="mini-item">
 							<div class="mini-item-img">
 								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
@@ -48,12 +47,14 @@ layout: default
 								<h3>{{ post.title }}</h3>
 							</div>
 						</div>
-						{% endif %}
+
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+
+{% for post in site.posts %} 
 
 {% endfor %}
