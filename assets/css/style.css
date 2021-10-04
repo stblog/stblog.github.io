@@ -26,7 +26,10 @@ a:focus, a:hover {
     color: #fff;
     text-decoration: underline;
 }
-
+.site-title a:hover, .site-title a:focus {
+    text-decoration: none;
+    color: #b78233;	
+}	
 .site-branding {
     float: left;
 }
