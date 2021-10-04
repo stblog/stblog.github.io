@@ -51,6 +51,12 @@ a:focus, a:hover {
 .site-description {
     margin-bottom: 30px;
 }
+
+ul.h-menu li {
+    display: inline-block;
+    float: left;	
+}	
+
 .top-posts {
     background: #1c1c1c url(/uploads/bg.jpg);
     background-size: contain;
