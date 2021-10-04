@@ -15,7 +15,7 @@ layout: default
 						<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 					</div>
 					<div class="big-item-title">
-						<h3>{{ post.title }}</h3>
+						<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 						<time datetime='{{ post.date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date|date:"%d.%m.%Y" }}</time>
 					</div>
 				</div>
@@ -30,7 +30,7 @@ layout: default
 								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 							</div>
 							<div class="mini-item-title">
-								<h3>{{ post.title }}</h3>
+								<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 							</div>
 						</div>
 						
@@ -44,7 +44,7 @@ layout: default
 								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 							</div>
 							<div class="mini-item-title">
-								<h3>{{ post.title }}</h3>
+								<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 							</div>
 						</div>
 
@@ -71,7 +71,7 @@ layout: default
 							<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 						</div>
 						<div class="mini-item-title">
-							<h3>{{ post.title }}</h3>
+							<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 						</div>
 					</div>
 				</div>
@@ -95,7 +95,7 @@ layout: default
 					</div>
 				</div>
 				<div class="col-sm-9">
-					<a href="#"><h3>{{ post.title }}</h3></a>
+					<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 					<p>text text text text text text text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text text</p>
 				</div>
 			</div>
