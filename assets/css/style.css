@@ -4,9 +4,13 @@
 	}
 }
 
-h5 {
-    font-size: 14px;
-    font-weight: 600;
+a {
+    color: #b78233;
+    text-decoration: none;
+}
+a:focus, a:hover {
+    color: #956a2a;
+    text-decoration: underline;
 }
 .site-branding {
     float: left;
