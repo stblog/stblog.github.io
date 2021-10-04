@@ -55,6 +55,8 @@ layout: default
 	</div>
 </div>
 
-{% for post in site.posts %} 
+{% for post in site.posts offset:3 limit:4 %} 
+
+{{ post.title }}<br>
 
 {% endfor %}
