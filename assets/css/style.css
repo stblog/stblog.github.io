@@ -66,7 +66,7 @@ ul.h-menu li {
 }
 footer {
     background: #1c1c1c url(/uploads/bg.jpg);
-    background-size: contain;
+    background-size: auto;
     padding: 15px 0;
     color: #fff;
 }
