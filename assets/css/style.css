@@ -42,6 +42,9 @@ footer {
 .columns {
     padding: 10px 0;
 }
+ul.f-menu {
+    padding-left: 15px;
+}
 .copyright {
     padding: 10px 0;
     text-align: center;
