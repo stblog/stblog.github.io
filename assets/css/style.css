@@ -65,7 +65,8 @@ ul.h-menu li {
     padding: 15px 0;
 }
 footer {
-    background: #1c1c1c;
+    background: #1c1c1c url(/uploads/bg.jpg);
+    background-size: contain;
     padding: 15px 0;
     color: #fff;
 }
