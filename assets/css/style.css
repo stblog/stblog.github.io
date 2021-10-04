@@ -13,6 +13,9 @@ a:focus, a:hover {
     text-decoration: underline;
 }
 
+.list-item a {
+    color: #1e1d15;
+}	
 .list-item a:focus, .list-item a:hover {
     color: #956a2a;
     text-decoration: none;
