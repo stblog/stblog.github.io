@@ -4,6 +4,10 @@
 	}
 }
 
+h5 {
+    font-size: 14px;
+    font-weight: 600;
+}
 .site-branding {
     float: left;
 }
