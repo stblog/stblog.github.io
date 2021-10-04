@@ -54,7 +54,9 @@ a:focus, a:hover {
 
 ul.h-menu li {
     display: inline-block;
-    float: left;	
+    float: left;
+    font-size: 19px;
+    padding: 40px 15px;	
 }	
 
 .top-posts {
