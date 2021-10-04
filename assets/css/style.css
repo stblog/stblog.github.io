@@ -13,6 +13,11 @@ a:focus, a:hover {
     text-decoration: underline;
 }
 
+.list-item a:focus, .list-item a:hover {
+    color: #956a2a;
+    text-decoration: none;
+}
+
 .big-item-title a, .mini-item-title a {
     color: #fff;
     text-decoration: none;
