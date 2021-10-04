@@ -15,6 +15,9 @@ a:focus, a:hover {
 
 .h-menu a, .list-item a {
     color: #1e1d15;
+}
+.h-menu a:hover, .h-menu a:focus {
+    color: #b78233;		
 }	
 .list-item a:focus, .list-item a:hover {
     color: #b78233;
