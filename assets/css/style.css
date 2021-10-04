@@ -12,6 +12,16 @@ a:focus, a:hover {
     color: #956a2a;
     text-decoration: underline;
 }
+
+.big-item-title a, .mini-item-title a {
+    color: #fff;
+    text-decoration: none;
+}
+.big-item-title a:focus, .big-item-title a:hover, .mini-item-title a:focus, .mini-item-title a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
 .site-branding {
     float: left;
 }
