@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "111 Welcome to Jekyll 111"
+title:  "Welcome to Jekyll 111"
 date:   2021-09-03 21:37:26 +0700
 categories: jekyll update
 thumb: 870.jpg
