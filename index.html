@@ -11,13 +11,15 @@ layout: default
 			<div class="col-sm-9">
 				{% assign post = site.posts.first %}
 				<div class="big-item">
-					<div class="big-item-img">
-						<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
-					</div>
-					<div class="big-item-title">
-						<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-						<time datetime='{{ post.date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date|date:"%d.%m.%Y" }}</time>
-					</div>
+					<a href="{{ post.url }}">
+						<div class="big-item-img">
+							<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
+						</div>
+						<div class="big-item-title">
+							<h3>{{ post.title }}</h3>
+							<time datetime='{{ post.date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date|date:"%d.%m.%Y" }}</time>
+						</div>
+					</a>	
 				</div>
 				
 			</div>
@@ -26,12 +28,14 @@ layout: default
 					<div class="col-sm-12 mini-one">
 						{% assign post = site.posts[1] %}
 						<div class="mini-item">
-							<div class="mini-item-img">
-								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
-							</div>
-							<div class="mini-item-title">
-								<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-							</div>
+							<a href="{{ post.url }}">
+								<div class="mini-item-img">
+									<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
+								</div>
+								<div class="mini-item-title">
+									<h3>{{ post.title }}</h3>
+								</div>
+							</a>
 						</div>
 						
 					</div>
@@ -40,12 +44,14 @@ layout: default
 					<div class="col-sm-12 mini-two">
 						{% assign post = site.posts[2] %}
 						<div class="mini-item">
-							<div class="mini-item-img">
-								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
-							</div>
-							<div class="mini-item-title">
-								<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-							</div>
+							<a href="{{ post.url }}">
+								<div class="mini-item-img">
+									<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
+								</div>
+								<div class="mini-item-title">
+									<h3>{{ post.title }}</h3>
+								</div>
+							</a>	
 						</div>
 
 					</div>
