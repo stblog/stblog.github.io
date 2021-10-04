@@ -61,7 +61,8 @@ a:focus, a:hover {
 ul.h-menu li {
     display: inline-block;
     float: left;
-    font-size: 19px;
+    font-size: 16px;
+    font-weight: 600;
     padding: 40px 15px;	
 }	
 
