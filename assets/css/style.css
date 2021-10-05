@@ -224,4 +224,18 @@ ul.f-menu {
 	    width: 290px;
 	    height: 280px;
 	}
+	.big-item-title h3 {
+	    font-size: 21px;
+	    width: 95%;
+	}
+	.big-item-title {
+	    padding: 10px 20px 20px;
+	}
+	.mini-item-title {
+	    padding: 10px 20px 5px;
+	}
+	.mini-item-title h3 {
+	    font-size: 21px;
+	    font-weight: 600;
+	}
 }	
