@@ -228,11 +228,11 @@ ul.f-menu {
 		width: 157px;
 	}
 	.site-description {
-	    width: 205px;
+	    	width: 205px;
 	}
 	img.site-logo {
-	    width: 60px;
-	    height: auto;		
+	    	width: 60px;
+	   	height: auto;		
 	}
 	a.site-title {
     		font-size: 24px;
