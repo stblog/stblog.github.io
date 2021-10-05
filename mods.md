@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Моды для игры
+title: Моды для игры World of Tanks
 ---
 
 
