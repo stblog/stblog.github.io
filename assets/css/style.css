@@ -215,7 +215,9 @@ ul.f-menu {
 	}
 }
 @media (max-width: 768px) {
-
+	.list-item h3 {
+	    margin-top: 20px;
+	}
 	.big-item-img img {
 		width: 532px;
 		height: 340px;
