@@ -216,7 +216,7 @@ ul.f-menu {
 }
 @media (max-width: 768px) {
 	.list-item h3 {
-	    margin-top: 20px;
+	    margin-top: 0;
 	}
 	.big-item-img img {
 		width: 532px;
