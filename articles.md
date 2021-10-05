@@ -5,12 +5,12 @@ title: Статьи
 
 
 
-<div class="container">
+<div class="container category-page">
 	
     <div class="row">
         <div class="col-sm-9 topmargin"><!-- list -->
 		<div>
-			<h3><strong>ПОСЛЕДНИЕ</strong> НОВОСТИ</h3>
+			<h1>Статьи</h1>
 		</div>	
 		
 		{% for post in site.categories.articles limit:3 %} 
