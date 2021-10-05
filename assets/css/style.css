@@ -242,6 +242,9 @@ ul.f-menu {
 }
 
 @media (max-width: 640px) {
+	.list-item h3 {
+	    margin-top: 20px;
+	}
 	.top-posts {
 	    margin-bottom: 20px;
 	}
