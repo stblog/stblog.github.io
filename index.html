@@ -8,7 +8,7 @@ layout: default
 <div class="top-posts">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-9">
+			<div class="col-md-9">
 				{% assign post = site.posts.first %}
 				<div class="big-item">
 					<a href="{{ post.url }}">
@@ -23,9 +23,9 @@ layout: default
 				</div>
 				
 			</div>
-			<div class="col-sm-3">
+			<div class="col-md-3">
 				<div class="row">
-					<div class="col-sm-12 mini-one">
+					<div class="col-md-12 mini-one">
 						{% assign post = site.posts[1] %}
 						<div class="mini-item">
 							<a href="{{ post.url }}">
@@ -41,7 +41,7 @@ layout: default
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-sm-12 mini-two">
+					<div class="col-md-12 mini-two">
 						{% assign post = site.posts[2] %}
 						<div class="mini-item">
 							<a href="{{ post.url }}">
@@ -64,14 +64,14 @@ layout: default
 
 <div class="container main-page">
      <div class="row">
-        <div class="col-sm-12 topmargin">
+        <div class="col-md-12 topmargin">
 		<div>
 			<h2><strong>ПОСЛЕДНИЕ</strong> НОВОСТИ</h2>
 		</div>
 		<div class="row">
 				
 			{% for post in site.posts offset:3 limit:4 %} 
-				<div class="col-sm-3 item-img">
+				<div class="col-md-3 item-img">
 					<div class="mini-item">
 						<a href="{{ post.url }}">
 							<div class="mini-item-img">
@@ -90,21 +90,21 @@ layout: default
     </div><!-- row -->
 	
     <div class="row">
-        <div class="col-sm-9 topmargin"><!-- list -->
+        <div class="col-md-9 topmargin"><!-- list -->
 		<div>
 			<h2><strong>ПОЛЕЗНЫЕ</strong> СТАТЬИ</h2>
 		</div>	
 		
 		{% for post in site.categories.articles limit:3 %} 
 			<div class="row list-item">
-				<div class="col-sm-3">
+				<div class="col-md-3">
 					<div class="list-item-img">
 						<a href="{{ post.url }}">
 							<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 						</a>
 					</div>
 				</div>
-				<div class="col-sm-9">
+				<div class="col-md-9">
 					<a href="{{ post.url }}">
 						<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 					</a>
@@ -118,7 +118,7 @@ layout: default
 		
 	</div><!-- topmargin -->
 	    
-	<div class="col-sm-3 topmargin sidebar"><!-- sidebar -->
+	<div class="col-md-3 topmargin sidebar"><!-- sidebar -->
 		{%- include sidebar.html -%}
 	</div><!-- topmargin -->
     </div><!-- row -->
