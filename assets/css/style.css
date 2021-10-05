@@ -250,5 +250,8 @@ ul.f-menu {
 	}
 	ul.h-menu {
 		display: none;
-	}	
+	}
+	.mini-item {
+	    	margin-bottom: 30px;
+	}
 }	
