@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Гайды
+title: Гайды для World of Tanks
 ---
 
 
