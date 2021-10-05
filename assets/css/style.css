@@ -82,6 +82,11 @@ ul.h-menu li {
 	text-transform: uppercase;
 	font-weight: 600;
 }
+.post-page h1 {
+	border-bottom: 1px solid #f0f0f0;
+   	padding: 10px 0;
+   	margin-bottom: 35px;	
+}	
 .category-page, .post-page article {
     	margin-bottom: 85px;
 }
