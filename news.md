@@ -26,7 +26,7 @@ title: Новости игры World of Tanks
 					<a href="{{ post.url }}">
 						<h3>{{ post.title }}</h3>
 					</a>
-					<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+					<p>{{ post.content | strip_html | truncatewords: 35 }}</p>
 				</div>
 			</div>
 		{% endfor %}
