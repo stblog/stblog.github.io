@@ -26,7 +26,7 @@ title: Статьи World of Tanks
 					<a href="{{ post.url }}">
 						<h3>{{ post.title }}</h3>
 					</a>
-					<p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+					<p>{{ post.content | strip_html | truncatewords: 55 }}</p>
 				</div>
 			</div>
 		{% endfor %}
