@@ -218,3 +218,10 @@ ul.f-menu {
 		width: 157px;
 	}
 }
+
+@media (max-width: 320px) {
+	.big-item-img img, .mini-item-img img {
+	    width: 290px;
+	    height: 280px;
+	}
+}	
