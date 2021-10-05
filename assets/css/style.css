@@ -220,6 +220,9 @@ ul.f-menu {
 }
 
 @media (max-width: 375px) {
+	.top-posts {
+	    margin-bottom: 20px;
+	}
 	.big-item-img img, .mini-item-img img, .item-img .mini-item-img img, .list-item-img img {
 	    width: 345px;
 	    height: 310px;
