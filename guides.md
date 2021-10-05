@@ -10,7 +10,7 @@ title: Гайды
     <div class="row">
         <div class="col-sm-9 topmargin"><!-- list -->
 		<div>
-			<h3><strong>ПОСЛЕДНИЕ</strong> НОВОСТИ</h3>
+			<h1>Гайды</h1>
 		</div>	
 		
 		{% for post in site.categories.guides limit:3 %} 
