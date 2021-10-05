@@ -257,7 +257,7 @@ ul.f-menu {
 	.mini-item {
 	    	margin-bottom: 30px;
 	}
-	.list-item p {
+	.list-item p, .sidebar {
 	    font-size: 17px;
 	}
 	.sidebar {
