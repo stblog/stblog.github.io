@@ -27,7 +27,9 @@ header {
     color: #b78233;
     text-decoration: none;
 }
-
+.main-page h2 {
+	font-size: 24px;
+}	
 .big-item-title a, .mini-item-title a {
     color: #fff;
     text-decoration: none;
@@ -202,6 +204,14 @@ ul.f-menu {
 	}
 	.mini-item-img img {
 		width: 212px;
+	}
+	.list-item-img img {
+	    width: 151px;
+	    height: 151px;
+	    object-fit: cover;
+	}
+	.list-item h3 {
+	    margin-top: 0;
 	}
 }
 @media (max-width: 768px) {
