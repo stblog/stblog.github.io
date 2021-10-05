@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Новости игры World of Tanks
 ---
 
 
@@ -25,7 +26,7 @@ layout: default
 					<a href="{{ post.url }}">
 						<h3>{{ post.title }}</h3>
 					</a>
-					<p>text text text text text text text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text texttext text text text text</p>
+					<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
 				</div>
 			</div>
 		{% endfor %}
