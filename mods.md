@@ -16,14 +16,14 @@ description: Скачать моды для World of Tanks последней в
 		
 		{% for post in site.categories.mods limit:3 %} 
 			<div class="row list-item">
-				<div class="col-sm-3">
+				<div class="col-md-3 col-sm-4">
 					<div class="list-item-img">
 						<a href="{{ post.url }}">
 							<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 						</a>
 					</div>
 				</div>
-				<div class="col-sm-9">
+				<div class="col-md-9 col-sm-8">
 					<a href="{{ post.url }}">
 						<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 					</a>
