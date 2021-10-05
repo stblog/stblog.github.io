@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Статьи
+title: Статьи World of Tanks
 ---
 
 
