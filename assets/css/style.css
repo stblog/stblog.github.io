@@ -227,6 +227,12 @@ ul.f-menu {
 	.item-img .mini-item-img img {
 		width: 157px;
 	}
+	.site-description {
+	    width: 205px;
+	}
+	img.site-logo {
+	    width: 60px;
+	}
 }
 
 @media (max-width: 640px) {
