@@ -243,10 +243,13 @@ ul.f-menu {
 		height: auto;	
 	}
 	a.site-title {
-		font-size: 24px;
+		font-size: 26px;
+    		margin-top: 20px;
 	}
 	.site-description {
-		width: 200px;
+		width: 210px;
+    		font-size: 16px;
+		margin-bottom: 15px;
 	}
 	ul.h-menu {
 		display: none;
