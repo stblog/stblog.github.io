@@ -27,7 +27,10 @@ description: Новости World of Tanks - обзоры выходящих о�
 					<a href="{{ post.url }}">
 						<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 					</a>
-					<p>{{ post.content | strip_html | truncatewords: 35 }}</p>
+					<p>
+						<time datetime='{{ post.date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date|date:"%d.%m.%Y" }}</time>
+					</p>
+					<p>{{ post.content | strip_html | truncatewords: 55 }}</p>
 				</div>
 			</div>
 		{% endfor %}
