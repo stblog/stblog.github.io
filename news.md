@@ -13,7 +13,7 @@ title: Новости игры World of Tanks
 			<h3><strong>ПОСЛЕДНИЕ</strong> НОВОСТИ</h3>
 		</div>	
 		
-		{% for post in site.categories.articles limit:3 %} 
+		{% for post in site.categories.news limit:3 %} 
 			<div class="row list-item">
 				<div class="col-sm-3">
 					<div class="list-item-img">
