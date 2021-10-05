@@ -12,7 +12,11 @@ a:focus, a:hover {
     color: #956a2a;
     text-decoration: underline;
 }
-
+header {
+	-webkit-box-shadow: 0px 3px 4px -5px rgba(24, 24, 24, 0.6);
+	-moz-box-shadow: 0px 3px 4px -5px rgba(24, 24, 24, 0.6);
+	box-shadow: 0px 3px 4px -5px rgba(24, 24, 24, 0.6);
+}	
 .h-menu a, .list-item a {
     color: #1e1d15;
 }
@@ -143,12 +147,12 @@ ul.f-menu {
 	margin-right: 2px;
 }
 .big-item-img img {
-	width: 870px;
+    width: 870px;
     height: 460px;
 }
 .big-item-img:before {
-	background: linear-gradient(360deg, #1c1c1c 0%,rgba(255, 255, 255, 0) 65%);
-	content: "";
+    background: linear-gradient(360deg, #1c1c1c 0%,rgba(255, 255, 255, 0) 65%);
+    content: "";
     position: absolute;
     top: 0;
     right: 0;
@@ -166,7 +170,7 @@ ul.f-menu {
     z-index: 2;
 }
 .mini-item-title h3 {
-	font-family: poppins,sans-serif;
+    font-family: poppins,sans-serif;
     font-size: 18px;
     line-height: 1.333;
     letter-spacing: -.6px;
