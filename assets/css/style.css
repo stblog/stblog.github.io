@@ -17,16 +17,6 @@ header {
 	-moz-box-shadow: 0px 3px 4px -5px rgba(24, 24, 24, 0.6);
 	box-shadow: 0px 3px 4px -5px rgba(24, 24, 24, 0.6);
 }	
-.logo-link img {
-	width: 65px;
-   	height: auto;	
-}
-a.site-title {
-   	font-size: 24px;
-}
-.site-description {
-    	width: 200px;
-}
 .h-menu a, .list-item a {
     color: #1e1d15;
 }
@@ -247,5 +237,15 @@ ul.f-menu {
 	.mini-item-title h3 {
 	    font-size: 21px;
 	    font-weight: 600;
+	}
+	.logo-link img {
+		width: 65px;
+		height: auto;	
+	}
+	a.site-title {
+		font-size: 24px;
+	}
+	.site-description {
+		width: 200px;
 	}
 }	
