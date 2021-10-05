@@ -77,13 +77,14 @@ ul.h-menu li {
     background-size: contain;
     padding: 15px 0;
 }
-.category-page h1 {
+.category-page h1, .post-page h1 {
 	font-size: 24px;
 	text-transform: uppercase;
 	font-weight: 600;
 }
 .post-page article {
     	margin-bottom: 85px;
+	margin-top: 35px;
 }
 .post-img {
 	max-width: 100%;
