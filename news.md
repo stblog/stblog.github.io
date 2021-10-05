@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Новости
+title: Новости игры World of Tanks
 ---
 
 
