@@ -239,17 +239,17 @@ ul.f-menu {
 	    font-weight: 600;
 	}
 	.logo-link img {
-		width: 65px;
+		width: 75px;
 		height: auto;	
 	}
 	a.site-title {
-		font-size: 26px;
+		font-size: 30px;
     		margin-top: 20px;
 	}
 	.site-description {
-		width: 210px;
-    		font-size: 16px;
-		margin-bottom: 15px;
+		width: 240px;
+    		font-size: 18px;
+		margin-bottom: 20px;
 	}
 	ul.h-menu {
 		display: none;
