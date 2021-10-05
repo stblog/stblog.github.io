@@ -10,7 +10,7 @@ title: Новости
     <div class="row">
         <div class="col-sm-9 topmargin"><!-- list -->
 		<div>
-			<h1><strong>ПОСЛЕДНИЕ</strong> НОВОСТИ</h1>
+			<h1>Новости</h1>
 		</div>	
 		
 		{% for post in site.categories.news limit:3 %} 
