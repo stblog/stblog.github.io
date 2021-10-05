@@ -232,7 +232,11 @@ ul.f-menu {
 	}
 	img.site-logo {
 	    width: 60px;
+	    height: auto;		
 	}
+	a.site-title {
+    		font-size: 24px;
+	}	
 }
 
 @media (max-width: 640px) {
