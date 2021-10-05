@@ -35,15 +35,7 @@ description: Скачать моды для World of Tanks последней в
 	</div><!-- topmargin -->
 	    
 	<div class="col-sm-3 topmargin"><!-- sidebar -->
-		<div>
-			<h4><strong>ЧИТАЙТЕ</strong> ТАКЖЕ</h4>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">sidebar sidebar sidebar sidebar sidebar sidebar sidebar </div>
-		</div>
-		<div class="row">
-			<div class="col-sm-12">sidebar sidebar sidebar sidebar sidebar sidebar sidebar </div>
-		</div>
+		{%- include sidebar.html -%}
 	</div><!-- topmargin -->
     </div><!-- row -->
 
