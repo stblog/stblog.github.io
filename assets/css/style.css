@@ -223,6 +223,9 @@ ul.f-menu {
 	.top-posts {
 	    margin-bottom: 20px;
 	}
+	.big-item {
+	    margin-bottom: 30px;
+	}
 	.big-item-img img, .mini-item-img img, .item-img .mini-item-img img, .list-item-img img {
 	    width: 510px;
 	    height: 450px;
@@ -255,7 +258,11 @@ ul.f-menu {
 		margin-bottom: 20px;
 	}
 	ul.h-menu {
-		display: none1;
+		display: inline-block;
+	}
+	ul.h-menu li {
+		font-size: 18px;
+	    	padding: 20px;
 	}
 	.mini-item {
 	    	margin-bottom: 30px;
