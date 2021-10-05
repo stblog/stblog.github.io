@@ -35,10 +35,6 @@ header {
 .big-item-title a:focus, .big-item-title a:hover, .mini-item-title a:focus, .mini-item-title a:hover {
     color: #fff;
     text-decoration: underline;
-}
-.site-title a:hover, .site-title a:focus {
-    text-decoration: none;
-    color: #b78233;	
 }	
 .site-branding {
     float: left;
@@ -60,6 +56,10 @@ a.site-title {
     line-height: 1.1;
     display: inline-block;
 }	
+a.site-title:hover, a.site-title:focus {
+    text-decoration: none;
+    color: #b78233;	
+}
 .site-description {
     margin-bottom: 30px;
 }
