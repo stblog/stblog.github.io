@@ -82,7 +82,7 @@ ul.h-menu li {
 	text-transform: uppercase;
 	font-weight: 600;
 }
-.post-page article {
+.category-page, .post-page article {
     	margin-bottom: 85px;
 }
 .post-img {
