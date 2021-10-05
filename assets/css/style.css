@@ -225,7 +225,7 @@ ul.f-menu {
 	}
 	.big-item-img img, .mini-item-img img, .item-img .mini-item-img img, .list-item-img img {
 	    width: 374px;
-	    height: 350px;
+	    height: auto;
 	}
 	.big-item-title h3 {
 	    font-size: 21px;
