@@ -219,6 +219,55 @@ ul.f-menu {
 	}
 }
 
+@media (max-width: 360px) {
+	.big-item-img img, .mini-item-img img, .item-img .mini-item-img img, .list-item-img img {
+	    width: 330px;
+	    height: 300px;
+	}
+	.big-item-title h3 {
+	    font-size: 21px;
+	    width: 95%;
+	}
+	.big-item-title {
+	    padding: 10px 20px 20px;
+	}
+	.mini-item-title {
+	    padding: 10px 20px 5px;
+	}
+	.mini-item-title h3 {
+	    font-size: 21px;
+	    font-weight: 600;
+	}
+	.logo-link img {
+		width: 65px;
+		height: auto;	
+	}
+	a.site-title {
+		font-size: 26px;
+    		margin-top: 20px;
+	}
+	.site-description {
+		width: 210px;
+    		font-size: 16px;
+		margin-bottom: 15px;
+	}
+	ul.h-menu {
+		display: none;
+	}
+	.mini-item {
+	    	margin-bottom: 30px;
+	}
+	.list-item p, .sidebar {
+	    font-size: 17px;
+	}
+	.sidebar {
+		margin-bottom: 50px;
+	}	
+	footer {
+		font-size: 16px;
+	}	
+}
+
 @media (max-width: 320px) {
 	.big-item-img img, .mini-item-img img, .item-img .mini-item-img img, .list-item-img img {
 	    width: 290px;
