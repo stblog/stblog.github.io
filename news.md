@@ -5,36 +5,11 @@ layout: default
 
 
 <div class="container">
-     <div class="row">
-        <div class="col-sm-12 topmargin">
-		<div>
-			<h3><strong>ПОСЛЕДНИЕ</strong> НОВОСТИ</h3>
-		</div>
-		<div class="row">
-				
-			{% for post in site.posts offset:3 limit:4 %} 
-				<div class="col-sm-3 item-img">
-					<div class="mini-item">
-						<a href="{{ post.url }}">
-							<div class="mini-item-img">
-								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>	
-							</div>
-							<div class="mini-item-title">
-								<h3>{{ post.title }}</h3>
-							</div>
-						</a>	
-					</div>
-				</div>
-			{% endfor %}
-			
-		</div><!-- row -->
-	</div><!-- topmargin -->
-    </div><!-- row -->
 	
     <div class="row">
         <div class="col-sm-9 topmargin"><!-- list -->
 		<div>
-			<h3><strong>ПОЛЕЗНЫЕ</strong> СТАТЬИ</h3>
+			<h3><strong>ПОСЛЕДНИЕ</strong> НОВОСТИ</h3>
 		</div>	
 		
 		{% for post in site.categories.articles limit:3 %} 
