@@ -37,7 +37,7 @@ description: Гайды для новичков в игре World of Tanks. Чи
 		
 	</div><!-- topmargin -->
 	    
-	<div class="col-sm-3 topmargin"><!-- sidebar -->
+	<div class="col-sm-3 topmargin sidebar"><!-- sidebar -->
 		{%- include sidebar.html -%}
 	</div><!-- topmargin -->
     </div><!-- row -->
