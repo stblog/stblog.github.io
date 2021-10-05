@@ -25,7 +25,7 @@ description: Новости World of Tanks - обзоры выходящих о�
 				</div>
 				<div class="col-sm-9">
 					<a href="{{ post.url }}">
-						<h3>{{ post.title }}</h3>
+						<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 					</a>
 					<p>{{ post.content | strip_html | truncatewords: 35 }}</p>
 				</div>
