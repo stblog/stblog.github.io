@@ -94,7 +94,10 @@ ul.h-menu li {
 }
 .post-img {
 	max-width: 100%;
-}	
+}
+.main-page {
+    margin-bottom: 50px;
+}
 footer {
     background: #1c1c1c url(/uploads/bg.jpg);
     background-size: auto;
