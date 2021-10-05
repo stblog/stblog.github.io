@@ -37,7 +37,7 @@ description: Статьи об игре World of Tanks и других игра�
 		
 	</div><!-- topmargin -->
 	    
-	<div class="col-sm-3 topmargin"><!-- sidebar -->
+	<div class="col-sm-3 topmargin sidebar"><!-- sidebar -->
 		{%- include sidebar.html -%}
 	</div><!-- topmargin -->
     </div><!-- row -->
