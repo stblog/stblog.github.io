@@ -16,7 +16,7 @@ layout: default
 							<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 						</div>
 						<div class="big-item-title">
-							<h3>{{ post.title }}</h3>
+							<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 							<time datetime='{{ post.date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date|date:"%d.%m.%Y" }}</time>
 						</div>
 					</a>	
@@ -33,7 +33,7 @@ layout: default
 									<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 								</div>
 								<div class="mini-item-title">
-									<h3>{{ post.title }}</h3>
+									<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 								</div>
 							</a>
 						</div>
@@ -49,7 +49,7 @@ layout: default
 									<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 								</div>
 								<div class="mini-item-title">
-									<h3>{{ post.title }}</h3>
+									<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 								</div>
 							</a>	
 						</div>
@@ -78,7 +78,7 @@ layout: default
 								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>	
 							</div>
 							<div class="mini-item-title">
-								<h3>{{ post.title }}</h3>
+								<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 							</div>
 						</a>	
 					</div>
@@ -106,7 +106,7 @@ layout: default
 				</div>
 				<div class="col-sm-9">
 					<a href="{{ post.url }}">
-						<h3>{{ post.title }}</h3>
+						<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 					</a>
 					<p>{{ post.content | strip_html | truncatewords: 55 }}</p>
 				</div>
