@@ -37,7 +37,7 @@ description: Новости World of Tanks - обзоры выходящих о�
 		
 	</div><!-- topmargin -->
 	    
-	<div class="col-sm-3 topmargin"><!-- sidebar -->
+	<div class="col-sm-3 topmargin sidebar"><!-- sidebar -->
 		{%- include sidebar.html -%}
 	</div><!-- topmargin -->
     </div><!-- row -->
