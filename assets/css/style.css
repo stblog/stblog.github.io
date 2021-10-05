@@ -220,7 +220,7 @@ ul.f-menu {
 }
 
 @media (max-width: 320px) {
-	.big-item-img img, .mini-item-img img {
+	.big-item-img img, .mini-item-img img, .item-img .mini-item-img img {
 	    width: 290px;
 	    height: 280px;
 	}
@@ -248,4 +248,7 @@ ul.f-menu {
 	.site-description {
 		width: 200px;
 	}
+	ul.h-menu {
+		display: none;
+	}	
 }	
