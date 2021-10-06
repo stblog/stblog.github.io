@@ -98,6 +98,9 @@ ul.h-menu li {
 .main-page {
     margin-bottom: 50px;
 }
+.sidebar {
+    margin-bottom: 50px;
+}
 footer {
     background: #1c1c1c url(/uploads/bg.jpg);
     background-size: auto;
