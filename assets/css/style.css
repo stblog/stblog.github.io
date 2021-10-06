@@ -201,11 +201,16 @@ ul.f-menu {
 }
 
 
-@media (max-width: 1024px) {
-	
+/* media */
+
+@media (max-width: 1200px) {
 	.container {
 		width: 100%;
 	}
+}	
+
+@media (max-width: 1024px) {
+	
 	.big-item-img img {
 	    	height: 436px;
 	}
