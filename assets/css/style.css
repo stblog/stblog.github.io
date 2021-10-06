@@ -135,16 +135,16 @@ ul.f-menu {
     z-index: 1;
 }
 .mini-item-img img {
-	width: 270px;
-    height: 215px;
+	max-width: 100%;
+    	height: 215px;
 	object-fit: cover;
 }
 .list-item {
     margin-bottom: 30px;
 }
 .list-item-img img {
-	width: 195px;
-    height: 195px;
+	max-width: 100%;
+    	height: 183px;
 	object-fit: cover;
 }
 .big-item-title {
@@ -170,8 +170,9 @@ ul.f-menu {
 	margin-right: 2px;
 }
 .big-item-img img {
-    width: 870px;
-    height: 460px;
+	max-width: 100%;	
+   	/*width: 870px;
+   	height: 460px;*/
 }
 .big-item-img:before {
     background: linear-gradient(360deg, #1c1c1c 0%,rgba(255, 255, 255, 0) 65%);
