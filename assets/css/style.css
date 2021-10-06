@@ -315,3 +315,8 @@ ul.f-menu {
 	}
 }	
 
+@media (max-width: 575px) {
+	.row-block .mini-item-img img {
+	    	height: 295px;
+	}	
+}	
