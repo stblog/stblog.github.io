@@ -209,7 +209,9 @@ ul.f-menu {
 	.row-block .mini-item-img img {
 	    	height: 238px;
 	}
-	
+	.row-block {
+	    	margin-bottom: 15px;
+	}
 }
 @media (max-width: 960px) {
 
@@ -243,7 +245,7 @@ ul.f-menu {
 	.row-block .mini-item-img img {
 	    	height: 220px;
 	}
-	.row-block .mini-item-img {
+	.row-block {
 	    	margin-bottom: 15px;
 	}
 	
