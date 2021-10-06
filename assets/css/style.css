@@ -273,17 +273,17 @@ ul.f-menu {
 }
 @media (max-width: 768px) {
 	
+	.list-item-img img {
+	    	height: 210px;
+	}
 	.mini-item-img img {
 	    	height: 389px;
 	}
 	.row-block .mini-item-img img {
 	    	height: 270px;
 	}
-	.list-item-img img {
-	    	height: 270px;
-	}
 	.list-item h3 {
-	    	margin-top: 15px;
+	    	margin-top: 0;
 	}
 	
 }
