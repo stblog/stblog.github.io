@@ -247,6 +247,14 @@ ul.f-menu {
 }
 @media (max-width: 768px) {
 
-	
+	.row-block .mini-item-img img {
+	    	height: 270px;
+	}
+	.list-item-img img {
+	    	height: 270px;
+	}
+	.list-item h3 {
+	    	margin-top: 15px;
+	}
 	
 }
