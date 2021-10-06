@@ -208,7 +208,15 @@ ul.f-menu {
 	.big-item-img img {
 		height: 435px;
 	}
-}	
+}
+
+/* width 100% */
+@media (max-width: 1200px) {
+	
+	.big-item-img img {
+		height: 435px;
+	}
+}
 @media (max-width: 1024px) {
 	
 	.big-item-img img {
@@ -221,6 +229,11 @@ ul.f-menu {
 	    	margin-bottom: 15px;
 	}
 }
+@media (max-width: 991px) {
+	ul.h-menu li {
+	    	padding: 40px 10px;
+	}
+}	
 @media (max-width: 960px) {
 
 	img.site-logo {
