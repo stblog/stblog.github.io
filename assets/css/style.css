@@ -206,6 +206,9 @@ ul.f-menu {
 	.big-item-img img {
 	    	height: 436px;
 	}
+	.row-block .mini-item-img img {
+	    	height: 238px;
+	}
 	
 }
 @media (max-width: 960px) {
