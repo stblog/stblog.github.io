@@ -288,7 +288,9 @@ ul.f-menu {
 	
 }
 @media (max-width: 660px) {
-	
+	.big-item-img img {
+	    	height: 370px;
+	}
 	ul.h-menu li {
 	    	font-size: 14px;
 	    	padding: 40px 7px;
@@ -300,12 +302,16 @@ ul.f-menu {
 @media (max-width: 610px) {
 	
 	img.site-logo {
-		width: 60px;
+		margin: 20px 0;
 	}
 	a.site-title {
 	    	font-size: 20px;
 	}
 	.site-description {
-	    	font-size: 14px;
+	    	display: none;
+	}
+	a.site-title {
+		margin-bottom: 20px;
 	}
 }	
+
