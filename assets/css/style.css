@@ -348,6 +348,15 @@ ul.f-menu {
 	.big-item-img img {
 		height: 280px;
 	}
+	.mini-item-img img {
+	    	height: 280px;
+	}
+	.big-item-title h3 {
+	    font-size: 20px;
+	}
+	.mini-one .mini-item-title h3, .mini-two .mini-item-title h3 {
+	    font-size: 20px;
+	}
 }	
 @media (max-width: 360px) {
 	
