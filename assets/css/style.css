@@ -352,16 +352,19 @@ ul.f-menu {
 	    	height: 280px;
 	}
 	.big-item-title h3 {
-	    font-size: 20px;
+	    	font-size: 20px;
 	}
 	.mini-one .mini-item-title h3, .mini-two .mini-item-title h3 {
-	    font-size: 20px;
+	    	font-size: 20px;
 	}
 }	
 @media (max-width: 360px) {
 	
 	.site-branding {
-	    width: 319px;
+	    	width: 305px;
+	}
+	a.site-title {
+	    	font-size: 24px;
 	}
 	ul.h-menu {
 		display: none;	
