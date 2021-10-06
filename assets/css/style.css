@@ -272,7 +272,10 @@ ul.f-menu {
 	
 }
 @media (max-width: 768px) {
-
+	
+	.mini-item-img img {
+	    	height: 389px;
+	}
 	.row-block .mini-item-img img {
 	    	height: 270px;
 	}
