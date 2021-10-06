@@ -72,7 +72,7 @@ layout: default
 				
 			{% for post in site.posts offset:3 limit:4 %} 
 				<div class="col-xl-3 col-md-6 item-img">
-					<div class="mini-item">
+					<div class="mini-item row-block">
 						<a href="{{ post.url }}">
 							<div class="mini-item-img">
 								<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>	
