@@ -9,21 +9,21 @@ description: Статьи об игре World of Tanks и других игра�
 <div class="container-xl category-page">
 	
     <div class="row">
-        <div class="col-sm-9 topmargin"><!-- list -->
+        <div class="col-xl-9 col-lg-9 topmargin"><!-- list -->
 		<div>
 			<h1>Статьи</h1>
 		</div>	
 		
 		{% for post in site.categories.articles limit:3 %} 
 			<div class="row list-item">
-				<div class="col-md-3 col-sm-4">
+				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4">
 					<div class="list-item-img">
 						<a href="{{ post.url }}">
 							<img src='/uploads/{{ post.date|date:"%Y" }}/{{ post.date|date:"%m" }}/{{ post.thumb }}'>
 						</a>
 					</div>
 				</div>
-				<div class="col-md-9 col-sm-8">
+				<div class="col-xl-8 col-lg-8 col-md-8 col-sm-8">
 					<a href="{{ post.url }}">
 						<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
 					</a>
@@ -37,7 +37,7 @@ description: Статьи об игре World of Tanks и других игра�
 		
 	</div><!-- topmargin -->
 	    
-	<div class="col-sm-3 topmargin sidebar"><!-- sidebar -->
+	<div class="col-xl-3 col-lg-3 topmargin sidebar"><!-- sidebar -->
 		{%- include sidebar.html -%}
 	</div><!-- topmargin -->
     </div><!-- row -->
