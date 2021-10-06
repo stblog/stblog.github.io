@@ -319,4 +319,10 @@ ul.f-menu {
 	.row-block .mini-item-img img {
 	    	height: 295px;
 	}	
+	.list-item-img img {
+	    	height: 295px;
+	}
+	.list-item h3 {
+	    	margin-top: 15px;
+	}
 }	
