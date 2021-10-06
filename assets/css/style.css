@@ -233,10 +233,16 @@ ul.f-menu {
 	.mini-item-title {
 		padding: 10px 35px 15px;
 	}
-	.mini-item-title h3 {
+	.mini-one .mini-item-title h3, .mini-two .mini-item-title h3 {
 		font-weight: 600;
     		font-size: 30px;	
-	}	
+	}
+	.row-block .mini-item-img img {
+	    	height: 220px;
+	}
+	.row-block .mini-item-img {
+	    	margin-bottom: 15px;
+	}
 	
 }
 @media (max-width: 768px) {
