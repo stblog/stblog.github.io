@@ -6,7 +6,7 @@ description: Новости World of Tanks - обзоры выходящих о�
 
 
 
-<div class="container category-page">
+<div class="container-xl category-page">
 	
     <div class="row">
         <div class="col-sm-9 topmargin"><!-- list -->
