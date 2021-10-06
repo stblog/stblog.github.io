@@ -287,10 +287,4 @@ ul.f-menu {
 	}
 	
 }
-@media (max-width: 768px) {
 	
-	ul.h-menu li {
-	    	font-size: 14px;
-	    	padding: 40px 7px;
-	}
-}	
