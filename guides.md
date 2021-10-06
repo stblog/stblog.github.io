@@ -6,7 +6,7 @@ description: Гайды для новичков в игре World of Tanks. Чи
 
 
 
-<div class="container category-page">
+<div class="container-xl category-page">
 	
     <div class="row">
         <div class="col-sm-9 topmargin"><!-- list -->
