@@ -6,7 +6,7 @@ description: Статьи об игре World of Tanks и других игра�
 
 
 
-<div class="container category-page">
+<div class="container-xl category-page">
 	
     <div class="row">
         <div class="col-sm-9 topmargin"><!-- list -->
