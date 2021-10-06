@@ -316,6 +316,19 @@ ul.f-menu {
 }	
 
 @media (max-width: 575px) {
+	
+	.site-branding {
+	    	width: 350px;
+	    	margin: 0 auto;
+	    	float: none;
+	}
+	a.site-title {
+	    	font-size: 29px;
+	}
+	ul.h-menu li {
+	    	font-size: 18px;
+	    	padding: 25px 33px;
+	}
 	.row-block .mini-item-img img {
 	    	height: 295px;
 	}	
