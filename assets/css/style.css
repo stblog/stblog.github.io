@@ -305,6 +305,12 @@ ul.f-menu {
 	    	width: 70px;
 	}
 }	
+@media (max-width: 640px) {
+	
+	.mini-item-img img {
+	    	height: 326px;
+	}
+}	
 @media (max-width: 610px) {
 	
 	img.site-logo {
