@@ -325,9 +325,13 @@ ul.f-menu {
 	a.site-title {
 	    	font-size: 29px;
 	}
+	ul.h-menu {
+		display: flex;
+    		justify-content: space-around;	
+	}	
 	ul.h-menu li {
 	    	font-size: 18px;
-	    	padding: 25px 33px;
+	    	padding: 15px 5px;
 	}
 	.row-block .mini-item-img img {
 	    	height: 295px;
