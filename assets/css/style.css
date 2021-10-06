@@ -224,6 +224,19 @@ ul.f-menu {
 	    	font-size: 15px;
 	    	padding: 40px 10px;
 	}
+	.big-item-img {
+	    	margin-bottom: 30px;
+	}
+	.mini-item-img img {
+	    	height: 365px;
+	}
+	.mini-item-title {
+		padding: 10px 35px 15px;
+	}
+	.mini-item-title h3 {
+		font-weight: 600;
+    		font-size: 30px;	
+	}	
 	
 }
 @media (max-width: 768px) {
