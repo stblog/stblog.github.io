@@ -297,7 +297,15 @@ ul.f-menu {
 	    	width: 70px;
 	}
 }	
-@media (max-width: 620px) {
+@media (max-width: 610px) {
 	
-	
+	img.site-logo {
+		width: 60px;
+	}
+	a.site-title {
+	    	font-size: 20px;
+	}
+	.site-description {
+	    	font-size: 14px;
+	}
 }	
