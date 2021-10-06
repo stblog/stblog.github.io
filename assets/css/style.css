@@ -235,7 +235,10 @@ ul.f-menu {
 	}
 }	
 @media (max-width: 960px) {
-
+	
+	.mini-item-img img {
+	    	height: 203px;
+	}
 	img.site-logo {
 	    	width: 75px;
 	   	height: auto;
