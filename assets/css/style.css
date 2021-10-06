@@ -203,6 +203,12 @@ ul.f-menu {
 
 /* media */	
 
+@media (max-width: 1200px) {
+	
+	.big-item-img img {
+		height: 435px;
+	}
+}	
 @media (max-width: 1024px) {
 	
 	.big-item-img img {
