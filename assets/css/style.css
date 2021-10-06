@@ -207,4 +207,27 @@ ul.f-menu {
 	    	height: 436px;
 	}
 	
-}	
+}
+@media (max-width: 960px) {
+
+	img.site-logo {
+	    	width: 75px;
+	   	height: auto;
+	}
+	a.site-title {
+	    	font-size: 24px;
+	}
+	p.site-description {
+	    	width: 200px;
+	}
+	ul.h-menu li {
+	    	font-size: 15px;
+	    	padding: 40px 10px;
+	}
+	
+}
+@media (max-width: 768px) {
+
+	
+	
+}
