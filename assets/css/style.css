@@ -274,8 +274,14 @@ ul.f-menu {
 	}
 	
 }
-@media (max-width: 769px) {
+@media (max-width: 768px) {
 	
+	.big-item-img img {
+	    	height: 380px;
+	}
+	.mini-item-img img {
+	    	height: 176px;
+	}
 	.list-item-img img {
 	    	height: 210px;
 	}
