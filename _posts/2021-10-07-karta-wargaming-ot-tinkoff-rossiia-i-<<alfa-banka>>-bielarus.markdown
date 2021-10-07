@@ -33,4 +33,4 @@ description: Повышенные бонусы всем игрокам World of 
 * Доступ к специальным акциям и предложениям.
 * И не только — узнать подробнее.
 
-С картой Wargaming вы можете больше! Все подробности на [официальном сайте](https://card.wargaming.net/ordercard/wot){:rel="nofollow"} игры.
+С картой Wargaming вы можете больше! Все подробности на [официальном сайте](https://card.wargaming.net/ordercard/wot){:rel="nofollow" target="_blank"} игры.
