@@ -5,7 +5,8 @@ categories:
 - news
 header: Банковская карта Wargaming возвращает золото
 thumb: tinkoff-wot.jpg
-description: 123
+description: Повышенные бонусы всем игрокам World of Tanks! Делай покупки — получай
+  золото и другие бонусы бесплатно. Для обладателей карт Wargaming из России и Беларуси!
 ---
 
 Отличные новости для обладателей карт Wargaming из России и Беларуси!
