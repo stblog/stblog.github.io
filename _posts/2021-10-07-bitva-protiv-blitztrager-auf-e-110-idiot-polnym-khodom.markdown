@@ -21,7 +21,7 @@ thumb: waffentrager.jpg
 
 Вы можете заработать Стартеры Гончих, выполняя задачи игрового события на технике отряда Гончих. Они позволят вам активировать Портал Гончих. Полный список возможных наград и вероятность их выпадения из портала — в инфографике.
 
-![wot.png](https://ru-wotp.wgcdn.co/dcont/fb/image/white_tiger_2021_rewards_harriers_ru.jpg)
+![wot.png](https://ru-wotp.wgcdn.co/dcont/fb/image/white_tiger_2021_rewards_harriers_ru.jpg){:style="max-width:100%;"}
 
 ## Порталы Инженера
 
