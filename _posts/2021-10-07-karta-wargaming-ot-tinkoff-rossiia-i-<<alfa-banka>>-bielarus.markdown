@@ -5,6 +5,7 @@ categories:
 - news
 header: Банковская карта Wargaming возвращает золото
 thumb: tinkoff-wot.jpg
+description: 123
 ---
 
 Отличные новости для обладателей карт Wargaming из России и Беларуси!
