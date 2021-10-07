@@ -3,7 +3,7 @@ title: Карта Wargaming от Тинькофф (Россия) и «Альфа
 date: 2021-10-07 06:07:00 Z
 categories:
 - news
-header: Банковская карт Wargaming возвращает золото
+header: Банковская карта Wargaming возвращает золото
 thumb: tinkoff-wot.jpg
 ---
 
