@@ -29,5 +29,5 @@ thumb: waffentrager.jpg
 
 При активации Портала Инженера вы можете получить игровые предметы четырёх разных категорий, и у каждой из них есть свой шанс выпадения.
 
-![wot.png](https://ru-wotp.wgcdn.co/dcont/fb/image/white_tiger_2021_rewards_engineer_ru_ygawr5y.jpg)
+![wot.png](https://ru-wotp.wgcdn.co/dcont/fb/image/white_tiger_2021_rewards_engineer_ru_ygawr5y.jpg){:style="max-width:100%;"}
 
