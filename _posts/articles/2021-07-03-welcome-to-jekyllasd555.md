@@ -1,10 +1,12 @@
 ---
+title: Article 222
+date: 2021-07-03 14:37:26 Z
+categories:
+- articles
 layout: post
-title:  "Article 111"
-date:   2021-08-03 21:37:26 +0700
-categories: articles
 thumb: 3.jpg
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

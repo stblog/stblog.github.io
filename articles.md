@@ -1,10 +1,9 @@
 ---
-layout: default
 title: Статьи World of Tanks
-description: Статьи об игре World of Tanks и других играх. Обзоры будущих обновлений WoT, анонс новых игр для ПК, обзоры новинок и прохождения игр...
+layout: default
+description: Статьи об игре World of Tanks и других играх. Обзоры будущих обновлений
+  WoT, анонс новых игр для ПК, обзоры новинок и прохождения игр...
 ---
-
-
 
 <div class="container-xl category-page">
 	
