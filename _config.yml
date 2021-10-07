@@ -12,7 +12,7 @@ email: mikhailyand@ya.ru
 description: Информационный портал игры World of Tanks. Актуальные новости WoT, инструкции
   и гайды для игроков, тактика игры, обзоры танков. Скачать моды для World of Tanks
   и подборки модов для игры...
-baseurl: ''
+baseurl: 
 url: https://worldoftanks.tk
 permalink: "/:title"
 theme: minima
