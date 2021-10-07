@@ -5,6 +5,9 @@ categories:
 - guides
 header: Системные требования World of Tanks
 thumb: wot-sistemnye-trebovaniya.jpg
+description: Если ваш компьютер соответствует системным требованиям World of Tanks,
+  то можно скачать актуальную версию игры с официального сайта Wargaming. Минимальные
+  требования игры для ПК...
 layout: post
 ---
 
