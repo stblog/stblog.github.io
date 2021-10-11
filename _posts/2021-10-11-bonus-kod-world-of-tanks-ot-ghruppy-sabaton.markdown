@@ -3,7 +3,7 @@ title: Бонус-код World of Tanks от группы Sabaton
 date: 2021-10-11 07:26:00 Z
 tags:
 - news
-header: Бонус-код WoT от музыкальной группы Sabaton
+header: Бонус-код от хэви-метал группы Sabaton в World of Tanks
 description: Шведская хэви-метал группа Sabaton дарит всем игрокам World of Tanks
   бонус-код! Код многоразовый, но может быть использован один раз на одном аккаунте.
   Чтобы использовать код введите на странице активации...
@@ -26,7 +26,7 @@ thumb: sabaton-bonus-kod.jpg
 
 ## Как активировать бонус-код World of Tanks
 
-* Перейдите на портал Wargaming и авторизуйтесь, используя свой логин и пароль в игре. Если забыли логин или пароль, то воспользуйтесь гайдом по [восстановлению аккаунта](https://worldoftanks.tk/kak-vosstanovit-akkaunt-v-world-of-tanks){:title="как восстановить аккаунт" rel="nofollow" target="_blank"}. 
+* Перейдите на портал Wargaming и авторизуйтесь, используя свой логин и пароль в игре. (Если забыли логин или пароль, то воспользуйтесь гайдом по [восстановлению аккаунта](https://worldoftanks.tk/kak-vosstanovit-akkaunt-v-world-of-tanks){:title="как восстановить аккаунт"}). 
 
 * Перейдите на специальную [страницу активации бонус-кодов](https://ru.wargaming.net/shop/redeem/){:rel="nofollow" target="_blank"}, введите код **STEELCOMMANDERS** и нажмите "Активировать код".
 
