@@ -22,7 +22,7 @@ thumb: sabaton-bonus-kod.jpg
 * Снаряжение "Кофе с выпечкой" — 10 шт.
 * Надпись «Sabaton».
 
-![shot_004-min.jpg](https://ru-wotp.wgcdn.co/dcont/fb/image/shot_004-min.jpg){:style="max-width: 870px;"}
+![shot_004-min.jpg](https://ru-wotp.wgcdn.co/dcont/fb/image/shot_004-min.jpg)
 
 Код действует с 25 августа и пока не закончился. Можно применить один раз на один аккаунт. Повторное применения кода не дает бонусов. Действует для всех регионов игры World of Tanks.
 
