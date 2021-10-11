@@ -18,6 +18,7 @@ permalink: "/:title"
 theme: minima
 plugins:
 - jekyll-feed
+- jekyll-seo-tag
 markdown: kramdown
 exclude:
 - Gemfile
