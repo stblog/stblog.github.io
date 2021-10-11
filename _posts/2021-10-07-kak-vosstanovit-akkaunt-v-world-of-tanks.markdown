@@ -1,5 +1,5 @@
 ---
-title: Как восстановить аккаунт в World of Tanks?
+title: Как восстановить аккаунт в World of Tanks
 date: 2021-10-07 07:41:00 Z
 categories:
 - guides
