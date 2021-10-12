@@ -1,7 +1,7 @@
 ---
 title: 'Почему вылетает World of Tanks: во время боя, при запуске игры'
 date: 2021-10-12 06:22:00 Z
-tags:
+categories:
 - guides
 header: Почему вылетает игра World of Tanks
 description: 'Игра World of Tanks вылетает в разных ситуациях: при загрузке, в бою,
