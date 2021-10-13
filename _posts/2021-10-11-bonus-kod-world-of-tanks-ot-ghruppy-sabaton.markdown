@@ -1,7 +1,7 @@
 ---
 title: Бонус-код World of Tanks от группы Sabaton
 date: 2021-10-11 07:26:00 Z
-tags:
+categories:
 - news
 header: Бонус-код от хэви-метал группы Sabaton в World of Tanks
 description: Шведская хэви-метал группа Sabaton дарит всем игрокам World of Tanks
