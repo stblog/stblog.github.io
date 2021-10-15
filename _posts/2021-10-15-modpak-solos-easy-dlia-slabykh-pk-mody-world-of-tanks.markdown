@@ -15,7 +15,7 @@ image: "/uploads/2021/10/Solos-Easy-WOT.jpg"
 
 Одним из главным преимуществ модпака Solo's Easy является наличие программы для повышения FPS в World of Tanks. Используйте сборку, если у вас слабый компьютер и вы желаете улучшить FPS.
 
-[Скачать модпак Solo's Easy](https://wgmods.net/37/){:rel="nofollow" target="_blank"}
+[Скачать модпак Solo's Easy](https://wgmods.net/37/){:rel="nofollow" target="_blank" class="dl-mod"}
 
 ## Как установить модпак?
 
