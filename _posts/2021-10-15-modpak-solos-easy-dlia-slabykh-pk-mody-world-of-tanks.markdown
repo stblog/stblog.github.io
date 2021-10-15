@@ -6,7 +6,7 @@ categories:
 header: Модпак Solo's Easy для поднятия FPS на слабых ПК
 description: Модпак Solo's Easy для World of Tanks пользуется огромной популярностью
   у многих игроков и различных ТОП-кланов. Умеет поднимать FPS в игре, а также...
-image: "/uploads/2021/10/Solo's-Easy-WOT.jpg"
+image: "/uploads/2021/10/Solos-Easy-WOT.jpg"
 ---
 
 Модпак Solo's Easy для World of Tanks высоко зарекомендовал себя в EU и NA регионах у топовых игроков и кланов. Теперь стал доступен для скачивания в RU регионе.
