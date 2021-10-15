@@ -1,0 +1,19 @@
+<div>
+    <h4><strong>ЧИТАЙТЕ</strong> ТАКЖЕ1</h4>
+</div>
+<div class="row">
+	{% for post in site.categories.mods limit:3 %} 
+    <div class="col-12">
+		<div class="mini-item row-block">
+			<a href="{{ post.url }}">
+				<div class="mini-item-img">
+					<img src='{{ post.image }}'>	
+				</div>
+			</a>	
+		</div>	
+		<a href="{{ post.url }}">
+			<h3>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h3>
+		</a>
+	</div>
+	{% endfor %}
+</div>
