@@ -24,7 +24,7 @@ image: "/uploads/2021/10/amway921-modpack.jpg"
 
 Также новичкам можно настроить отключение камуфляжей танков, логотипов кланов и скрыть другую информацию на экране, которая им не нужна на стадии обучения.
 
-[Скачать модпак Протанки](https://wgmods.net/95/){:rel="nofollow" target="_blank" class="dl-mod"}
+[Скачать модпак Amway921](https://wgmods.net/95/){:rel="nofollow" target="_blank" class="dl-mod"}
 
 ## Как установить модпак?
 
