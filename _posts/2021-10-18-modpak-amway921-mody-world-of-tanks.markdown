@@ -3,7 +3,7 @@ title: Модпак Amway921 - Моды World of Tanks
 date: 2021-10-18 07:02:00 Z
 categories:
 - mods
-header: Модпак Amway921 для Worldof Tanks
+header: Модпак Amway921 для World of Tanks
 description: Модпак Amway921 входит в первую десятку самых популярных сборок для World
   of Tanks. Подойдет для начинающих игроков т к содержит только самые нужные модификации
   и не имеет ничего лишнего...
