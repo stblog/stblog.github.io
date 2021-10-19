@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: https://worldoftanks.tk/google*
-Disallow: https://worldoftanks.tk/yandex*
-
-Sitemap: https://worldoftanks.tk/sitemap.xml
-Host: https://worldoftanks.tk/
