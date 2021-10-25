@@ -1,5 +1,5 @@
 ---
-title: Получай баллы на АЗС Shell и покупай бонусы в World of Tanks
+title: Получай баллы на АЗС Shell и забирай подарки в World of Tanks
 date: 2021-10-25 09:49:00 Z
 categories:
 - news
