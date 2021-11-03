@@ -22,7 +22,7 @@ image: "/uploads/2021/11/debetovaya-karta-World-of-Tanks.jpg"
 
 По итогу сегодня, чтобы завести банковскую карту World of Tanks можно обратиться только в Тинькофф банк. Привязать карту другого банка и получать бонусы в игре также не представляется возможным.
 
-![WOT_card.png](/uploads/2021/11/WOT_card.png)
+->![WOT_card.png](/uploads/2021/11/WOT_card.png)<-
 
 ### Бонусы банковской карты World of Tanks
 
