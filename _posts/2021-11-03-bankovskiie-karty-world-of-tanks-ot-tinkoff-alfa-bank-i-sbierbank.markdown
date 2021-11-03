@@ -32,3 +32,5 @@ image: "/uploads/2021/11/debetovaya-karta-World-of-Tanks.jpg"
 * 32 личных резерва для ускорения прокачки.
 
 Также вы можете получить до 750 рублей, если примите участие в реферальной программе Тинькофф и привлечете для банка новых держателей карт World of Tanks.
+
+<p style="text-align: center;"><a href="https://card.wargaming.net/ordercard/wot" rel="nofollow" target="_blank" class="dl-mod" title="оформить банковскую карту Тинькофф">Заказать карту World of Tanks</a></p>
