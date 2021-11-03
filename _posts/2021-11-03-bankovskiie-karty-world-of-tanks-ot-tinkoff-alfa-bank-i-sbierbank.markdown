@@ -26,7 +26,7 @@ image: "/uploads/2021/11/debetovaya-karta-World-of-Tanks.jpg"
 ![WOT_card.png](/uploads/2021/11/WOT_card.png)
 </p>
 
-## Бонусы банковской карты World of Tanks
+### Бонусы банковской карты World of Tanks
 
 Все, кто оформил дебетовую или кредитную карту World of Tanks в Тинькофф банке получают единовременные и регулярные бонусы.
 
