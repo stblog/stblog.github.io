@@ -31,7 +31,7 @@ description: Одна из самых полезных и необходимых
 * **Цветная версия**. С цветными шрифтами.
 * **Новая версия**. Улучшен визуальный вид панели и цвета шрифтов. Панель показывает всю основную информацию о танке.
 
-<a href="/uploads/2021/11/mod-informatsionnaya-panel" rel="nofollow" target="_blank" class="dl-mod">Скачать мод "Информационная панель"</a>
+<a href="/uploads/2021/11/mod-informatsionnaya-panel.rar" rel="nofollow" target="_blank" class="dl-mod">Скачать мод "Информационная панель"</a>
 
 ## Как установить мод
 
