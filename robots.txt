@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /google1f7301e*
+Disallow: /yandex_9717e2*
+Disallow: /yandex_a523df*
+
+Sitemap: https://protanks.ru/sitemap.xml
+Host: https://protanks.ru/
