@@ -5,7 +5,7 @@ categories:
 - articles
 header: Нет соединения с сервером World of Tanks
 image: "/uploads/2021/10/net-soedineniya-s-serverom.jpg"
-description: Время от времени игроки World of Tanks сталкиваются с проблемой когда
+description: Время от времени игроки World of Tanks сталкиваются с проблемой, когда
   нет соединения с сервером игры. Обычно такая ошибка может возникать при входе в
   клиент WoT, но бывает, что и во время боя или...
 ---
