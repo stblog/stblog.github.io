@@ -8,7 +8,7 @@ thumb: wot-sistemnye-trebovaniya.jpg
 description: Если ваш компьютер соответствует системным требованиям World of Tanks,
   то можно скачать актуальную версию игры с официального сайта Wargaming. Минимальные
   требования игры для ПК...
-image: https://worldoftanks.tk/uploads/2021/10/wot-sistemnye-trebovaniya.jpg
+image: "/uploads/2021/10/wot-sistemnye-trebovaniya.jpg"
 layout: post
 ---
 
