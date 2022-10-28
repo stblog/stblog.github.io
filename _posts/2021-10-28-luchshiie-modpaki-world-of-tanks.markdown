@@ -16,11 +16,11 @@ image: "/uploads/2021/10/luchshie-modpaki.jpg"
 
 ## Лучшие модпаки ТОП-5
 
-1. [Модпак Джова ](https://worldoftanks.tk/modpak-dzhova-mody-world-of-tanks){:target="_blank"}
-2. [Модпак WGMods](https://worldoftanks.tk/modpak-ot-wgmods-mody-world-of-tanks){:target="_blank"}
+1. [Модпак Джова ](/modpak-dzhova-mody-world-of-tanks){:target="_blank"}
+2. [Модпак WGMods](/modpak-ot-wgmods-mody-world-of-tanks){:target="_blank"}
 3. Модпак KorbenTeam
-4. [Модпак Протанки](https://worldoftanks.tk/modpak-ot-protanki-mody-world-of-tanks){:target="_blank"}
-5. [Мод Amway921](https://worldoftanks.tk/modpak-amway921-mody-world-of-tanks){:target="_blank"}
+4. [Модпак Протанки](/modpak-ot-protanki-mody-world-of-tanks){:target="_blank"}
+5. [Мод Amway921](/modpak-amway921-mody-world-of-tanks){:target="_blank"}
 
 Зачем же тогда игроки постоянно ищут лучшие модпаки для World of Tanks? Почему не взять моды сборки из ТОП-5 и играть с ними без забот и хлопот?
 
