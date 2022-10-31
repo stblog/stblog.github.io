@@ -1,0 +1,22 @@
+<div style="margin-bottom: 30px;">
+	<a href="/shop" target="_blank"><img src="/uploads/WOT_10_lvl.jpg"></a>
+</div>
+<div>
+    <h4><strong>ЧИТАЙТЕ</strong> ТАКЖЕ</h4>
+</div>
+<div class="row">
+	{% for post in site.categories.mods limit:3 %} 
+    <div class="col-12">
+		<div class="mini-item row-block">
+			<a href="{{ post.url }}">
+				<div class="mini-item-img">
+					<img src='{{ post.image }}'>	
+				</div>
+			</a>	
+		</div>	
+		<a href="{{ post.url }}">
+			<h2>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h2>
+		</a>
+	</div>
+	{% endfor %}
+</div>
