@@ -7,7 +7,7 @@ categories:
 header: Перенос аккаунта World of Tanks на Мир танков
 description: Всем игрокам World of Tanks необходимо выбрать регион для продолжения
   игры - RU-регион или EU-регион. Перенос аккаунта на Мир танков...
-image: "/uploads/2022/11/perenos-akkaunta-mir-tankov.jpg"
+image: "/uploads/perenos-akkaunta-mir-tankov.jpg"
 ---
 
 C 20 сентября 2022 года была запущена процедура выбора региона и переноса аккаунта. Всем игрокам World of Tanks, World of Tanks Blitz, World of Warships и World of Warplanes* необходимо необходимо сделать выбор, в каком регионе продолжить игру:
