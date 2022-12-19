@@ -16,7 +16,7 @@ image: "/uploads/novogodniy-mir-tankov-2023.jpg"
 
 ** Обзор события «Новогоднее наступление 2023»
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/yBffdIcy1ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="90%" height="auto" src="https://www.youtube.com/embed/yBffdIcy1ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 *** Праздничный городок
 
@@ -25,3 +25,4 @@ image: "/uploads/novogodniy-mir-tankov-2023.jpg"
 ![праздничный городок Мир танков](https://ru-wotp.wgcdn.co/dcont/fb/image/angar_nn2023_2.jpg){:alt="праздничный городок Мир танков"}
 
 В честь события в Праздничном городке каждого игрока ждет подарок - новенький M16/43 Sahariano (итальянский средний премиум танк III уровня) с экипажем, обученным до 100%, и слотом в Ангаре!
+
