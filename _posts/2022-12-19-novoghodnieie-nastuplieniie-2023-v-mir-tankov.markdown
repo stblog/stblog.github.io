@@ -16,7 +16,7 @@ image: "/uploads/novogodniy-mir-tankov-2023.jpg"
 
 ## Обзор события «Новогоднее наступление 2023»
 
-<center><iframe width="90%" height="auto" src="https://www.youtube.com/embed/yBffdIcy1ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="90%" height="50%" src="https://www.youtube.com/embed/yBffdIcy1ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Праздничный городок
 
