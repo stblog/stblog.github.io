@@ -14,11 +14,11 @@ image: "/uploads/novogodniy-mir-tankov-2023.jpg"
 
 > С 1 декабря 2022 года по 9 января 2023 года ангар превратился в праздничный городок, где Дед мороз и Снегурочка раздают боевые поручения и конечно праздничные награды!
 
-** Обзор события «Новогоднее наступление 2023»
+## Обзор события «Новогоднее наступление 2023»
 
 <center><iframe width="90%" height="auto" src="https://www.youtube.com/embed/yBffdIcy1ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-*** Праздничный городок
+### Праздничный городок
 
 Зайдите в свой городок и дайте ему имя, которое он будет носить до конца новогоднего мероприятия в Мир танков.
 
