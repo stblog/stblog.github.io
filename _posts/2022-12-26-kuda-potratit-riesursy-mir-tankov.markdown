@@ -40,6 +40,8 @@ img
 
 ### На что потратить ресурсы в Мир танков
 
+![spend_resources_RU.jpg](https://content-wg.gcdn.co/locdoc/infographics/2022/HO_resources/spend_resources_RU.jpg)
+
 Не знаете на, что потратить ресурсы? - вот, что можно купить за новогодние ресурсы Мир танков:
 
 * Улучшения для украшаемых объектов; 
