@@ -48,7 +48,7 @@ description: В Мир танков анонсировали новогодни�
 
 ## Обзор боевого пропуска «Тридевятое царство» Мир танков
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/9_zEoPRoyqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="vyt"><iframe width="100%" height="auto" src="https://www.youtube.com/embed/9_zEoPRoyqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ### Улучшенный боевой пропуск
 
