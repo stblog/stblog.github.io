@@ -17,3 +17,14 @@ image: "/uploads/obnovlenie-mir-tankov-1-19-1.jpg"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivFgtlRRMZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+### Новая ветка китайских тяжёлых танков
+
+Встречайте новые китайские тяжёлые танки, которые доставят большие неприятности вашему противнику! Новая ветка включает четыре исследуемые машины с VII по X уровень. Все они отличаются прочной башней, крепкой лобовой бронёй корпуса с рациональным углом наклона и мощным орудием с комфортными углами склонения.
+
+Однако главная особенность этих танков — **новая механика ракетных ускорителей**. Она увеличивает как мощность двигателя, так и максимальную скорость движения вперёд, позволяя перемещаться быстрее или таранить легкобронированные цели на высокой скорости. В зависимости от уровня техники вы можете активировать механику до шести раз за бой.
+
+## Демонстрация механики ракетных ускорителей
+
+<div class="vyt">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Va91lCx-IQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
