@@ -30,6 +30,15 @@ image: "/uploads/oshibka-golosovogo-chata-mir-tankov.jpg"
 
 ![исключение Мир танков брандмауэр Windows](/uploads/isklucheniya-firewalla.JPG)
 
+<!-- Yandex.RTB R-A-1959236-6 -->
+<div id="yandex_rtb_R-A-1959236-6"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1959236-6',
+    blockId: 'R-A-1959236-6'
+  })
+})</script>
+
 ## Ошибка Мир танков «Ошибка инициализации (Основное соединение закрыто)»
 
 Вот, что пишут разработчики о данном сбое голосовой связи в игре:
