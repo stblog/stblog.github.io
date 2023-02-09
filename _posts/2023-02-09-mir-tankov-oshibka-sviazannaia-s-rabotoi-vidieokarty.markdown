@@ -24,8 +24,8 @@ description: Что делать, если в Мир танков произош
 
 Чтобы обновить драйвера вы должны знать производителя своей видеокарты. Перейдите по одной из ссылок, чтобы скачать актуальные драйвера для видеочипа вашего компьютера:
 
-Видеочип Intel: https://www.intel.ru/content/www/ru/ru/support/detect.html
-Видеокарты AMD: https://support.amd.com/ru-ru/download
+Видеочип Intel: https://www.intel.ru/content/www/ru/ru/support/detect.html<br>
+Видеокарты AMD: https://support.amd.com/ru-ru/download<br>
 Видеокарты Nvidia : http://www.nvidia.ru/Download/index.aspx?lang=ru
 
 Если же вы не знаете, что за видеокарта у вас установлена, то воспользуйтесь программой для автоматического обновления драйверов. Например, Driver Booster, DriverPack Solution или Driver Genius. Подобных программ существует немало - стоит только погуглить.
