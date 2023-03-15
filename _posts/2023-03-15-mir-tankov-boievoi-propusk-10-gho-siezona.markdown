@@ -92,6 +92,15 @@ description: Что интересного ждет игроков Мир тан
 
 ![BZ-58-2](https://ru-wotp.lesta.ru/dcont/fb/image/2_Q1uC9Oc.jpg)
 
+<!-- Yandex.RTB R-A-1959236-7 -->
+<div id="yandex_rtb_R-A-1959236-7"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1959236-7',
+    blockId: 'R-A-1959236-7'
+  })
+})</script>
+
 ![KPz 3 Projekt 07 HK](https://ru-wotp.lesta.ru/dcont/fb/image/4_2aMKwFU.jpg)
 
 ### Наборы 10 сезона
