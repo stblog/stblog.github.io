@@ -126,7 +126,7 @@ description: Если вы играете в Мир танков, то уже з
 Золото в магазине
 -----------------
 
-Вы также можете приобрести [золото в нашем магазине](https://protanks.ru/shop) с хорошей скидкой.
+Вы также можете приобрести [**золото в нашем магазине**](https://protanks.ru/shop) с хорошей скидкой.
 
 <script>!function(e){var l=function(l){return e.cookie.match(new RegExp("(?:^|; )digiseller-"+l+"=([^;]*)"))},i=l("lang"),s=l("cart_uid"),t=i?"&lang="+i[1]:"",d=s?"&cart_uid="+s[1]:"",r=e.getElementsByTagName("head")[0]||e.documentElement,n=e.createElement("link"),a=e.createElement("script");n.type="text/css",n.rel="stylesheet",n.id="digiseller-css",n.href="//shop.digiseller.ru/xml/store2_css.asp?seller_id=1119157",a.async=!0,a.id="digiseller-js",a.src="//www.digiseller.ru/store2/digiseller-api.js.asp?seller_id=1119157"+t+d,!e.getElementById(n.id)&&r.appendChild(n),!e.getElementById(a.id)&&r.appendChild(a)}(document);</script>
 
