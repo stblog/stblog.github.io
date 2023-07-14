@@ -1,6 +1,8 @@
 ---
 title: Событие «Стальной охотник» в Мир танков 2023
 date: 2023-08-07 06:52:00 Z
+categories:
+- news
 header: Событие «Стальной охотник» Мир танков
 image: "/uploads/stalnoy-ohotnik-mir-tankov.jpg"
 description: В 2023 году режим Cтальной охотник в Мир танков будет обновлен и расширен.
