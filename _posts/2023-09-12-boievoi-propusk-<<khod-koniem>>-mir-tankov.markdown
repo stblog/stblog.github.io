@@ -18,7 +18,7 @@ image: "/uploads/mir-tankov-boevoi-propusk-hod-konem.jpg"
 
 ## Трейлер боевого пропуска «Ход конем»
 
-<iframe width="100%"  src="https://www.youtube.com/embed/Dec5A86zpac?si=e4DmxJr-fo6uiS0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="545px" src="https://www.youtube.com/embed/Dec5A86zpac?si=e4DmxJr-fo6uiS0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Главы события
 
