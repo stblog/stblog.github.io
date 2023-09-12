@@ -32,15 +32,15 @@ image: "/uploads/mir-tankov-boevoi-propusk-hod-konem.jpg"
 
 ### 3D-стили сезона
 
-[hod-konem-mir-tankov.JPG](/uploads/hod-konem-mir-tankov.JPG)
+![hod-konem-mir-tankov.JPG](/uploads/hod-konem-mir-tankov.JPG)
 
 ## Базовые и улучшенные награды боевого пропуска
 
-[bazovie-nagrady.JPG](/uploads/bazovie-nagrady.JPG)
+![bazovie-nagrady.JPG](/uploads/bazovie-nagrady.JPG)
 
 Доступ к улучшенным наградам открывается после покупки Улучшенного пропуска
 
-[uluchshenie-nagrady.JPG](/uploads/uluchshenie-nagrady.JPG)
+![uluchshenie-nagrady.JPG](/uploads/uluchshenie-nagrady.JPG)
 
 ## Улучшенный пропуск Мир танков
 
