@@ -10,17 +10,15 @@ description: Новый 12-й сезон Боевого пропуска Мир 
 image: "/uploads/mir-tankov-boevoi-propusk-hod-konem.jpg"
 ---
 
-213123123
+С 6 сентября по 6 декабря проходите этапы Боевого пропуска 12 сезона «Ход конем» Мир танков и получайте награды!
+
+Этот сезон перенесёт вас на гипотетическую международную выставку достижений в Новосибирске на рубеже 50-х и 60-х годов.
+
+Вы сможете заработать до 2550 золота, 3000 бон, экспериментальное оборудование, дни премиум аккаунта, членов экипажа и 3D-стили, которые превратят ваши танки в настоящие экспонаты. Обновлённый перечень наград смотрите ниже.
 
 ## Трейлер боевого пропуска «Ход конем»
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dec5A86zpac?si=e4DmxJr-fo6uiS0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Подробности события «Ход конем»
-
-* С 6 сентября по 6 декабря проходите этапы Боевого пропуска и получайте награды.
-* Этот сезон перенесёт вас на гипотетическую международную выставку достижений в Новосибирске на рубеже 50-х и 60-х годов.
-* Вы сможете заработать до 2550 золота, 3000 бон, экспериментальное оборудование, дни премиум аккаунта, членов экипажа и 3D-стили, которые превратят ваши танки в настоящие экспонаты. Обновлённый перечень наград смотрите ниже.
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/Dec5A86zpac?si=e4DmxJr-fo6uiS0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Главы события
 
