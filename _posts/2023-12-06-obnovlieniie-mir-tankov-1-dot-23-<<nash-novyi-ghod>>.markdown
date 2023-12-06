@@ -12,7 +12,7 @@ description: Новогодние контейнеры в обновлении �
 
 Наряжаем красавицу-ёлку в ангаре Мир танков, делимся сюрпризами из новогодних контейнеров, готовимся собирать новый премиум танк в Сборочном цеху и врываемся в не по-зимнему жаркие сражения Натиска!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vA6kE6eThM0?si=zP1sZclrk7MO6es6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="545px" src="https://www.youtube.com/embed/vA6kE6eThM0?si=zP1sZclrk7MO6es6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Яркое праздничное обновление Мир танков будет доступно с 6 декабря по 24 января 2024 года!
 
