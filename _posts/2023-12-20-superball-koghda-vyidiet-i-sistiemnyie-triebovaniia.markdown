@@ -16,11 +16,11 @@ Superball - это спортивная онлайн-игра с мячом, г�
 
 ## Анонс игры
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eRS57_uhN_s?si=e6nGFFflZp-PNeb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="760" height="415" src="https://www.youtube.com/embed/eRS57_uhN_s?si=e6nGFFflZp-PNeb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Официальный трейлер игры
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zC7q9W5cvqA?si=C9dNWMncq8k44Qt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="760" height="415" src="https://www.youtube.com/embed/zC7q9W5cvqA?si=C9dNWMncq8k44Qt7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Дата выхода Superball
 
