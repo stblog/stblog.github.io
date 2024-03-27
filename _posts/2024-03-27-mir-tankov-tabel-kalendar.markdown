@@ -52,4 +52,4 @@ image: "/uploads/mir-tankov-tabel-kalendar.jpg"
 
 2. Прямая ссылка: https://tanki.su/ru/daily-check-in/
 
-
+Успейте забрать все бесплатные награды текущего месяца до окончания события!
