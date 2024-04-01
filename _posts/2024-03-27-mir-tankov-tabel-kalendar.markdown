@@ -56,13 +56,13 @@ image: "/uploads/mir-tankov-tabel-kalendar.jpg"
 
 ## Список наград табеля Мир танков в Апреле
 
-![награды табеля-календаря в марте](https://ru-wotp.lesta.ru/dcont/fb/image/0bfb-c405-db6c-d890.png)
+![награды табеля-календаря в апреле](https://ru-wotp.lesta.ru/dcont/fb/image/b4fd-0245-db13-89f7.png)
 
 ### Как находится Табель-календарь
 
 1. Ссылка на раздел находится в верхнем меню официального портала Мир танков.
 
-![ссылка на табель Мир танков Lesta](https://ru-wotp.lesta.ru/dcont/fb/image/b4fd-0245-db13-89f7.png)
+![ссылка на табель Мир танков Lesta](https://ru-wotp.lesta.ru/dcont/fb/image/commonmenu1.jpg)
 
 2. Прямая ссылка: https://tanki.su/ru/daily-check-in/
 
