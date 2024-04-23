@@ -62,14 +62,14 @@ description: 'Обзор нового Боевого пропуска 13 сез�
 
 ### ЧО-КО-НУ
 
-<video src="https://tanki-media-content.tanki.su/tanki-media/video/BZ_75.webm" preload="auto" autoplay="autoplay" loop="loop" muted="muted" data-gtm-vis-has-fired92799575_82="1" data-gtm-vis-has-fired92799575_83="1"></video>
+<video src="https://tanki-media-content.tanki.su/tanki-media/video/BZ_75.webm" preload="auto" autoplay="autoplay" width="100%" loop="loop" muted="muted" data-gtm-vis-has-fired92799575_82="1" data-gtm-vis-has-fired92799575_83="1"></video>
 
 ### ГРЕМЛИН
 
-<video src="https://tanki-media-content.tanki.su/tanki-media/video/Concept_no5.webm" preload="auto" autoplay="autoplay" loop="loop" muted="muted" data-gtm-vis-has-fired92799575_82="1" data-gtm-vis-has-fired92799575_83="1"></video>
+<video src="https://tanki-media-content.tanki.su/tanki-media/video/Concept_no5.webm" preload="auto" autoplay="autoplay" width="100%" loop="loop" muted="muted" data-gtm-vis-has-fired92799575_82="1" data-gtm-vis-has-fired92799575_83="1"></video>
 
 ### УТИГАТАНА
 
-<video src="https://tanki-media-content.tanki.su/tanki-media/video/Ho-Ri-3.webm" preload="auto" autoplay="autoplay" loop="loop" muted="muted" data-gtm-vis-has-fired92799575_82="1" data-gtm-vis-has-fired92799575_83="1"></video>
+<video src="https://tanki-media-content.tanki.su/tanki-media/video/Ho-Ri-3.webm" preload="auto" autoplay="autoplay" width="100%" loop="loop" muted="muted" data-gtm-vis-has-fired92799575_82="1" data-gtm-vis-has-fired92799575_83="1"></video>
 
 В новом сезоне также доступно много других наград, которые вы можете получить за очки боевого пропуска!
