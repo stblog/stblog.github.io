@@ -1,0 +1,45 @@
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+
+	{%- seo -%}
+
+	{% if page.thumb %}
+	<meta property="og:image:width" content="870">
+	<meta property="og:image:height" content="460">
+	{% endif %}
+	  
+	<link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | relative_url }}">
+
+	{%- feed_meta -%}
+	
+	
+	<!-- Google tag (gtag.js) all service -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-2LVYE4P7N9"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-2LVYE4P7N9');
+	</script>
+	
+	<!-- Yandex Native Ads -->
+	<script>window.yaContextCb=window.yaContextCb||[]</script>
+	<script src="https://yandex.ru/ads/system/context.js" async></script>
+	
+</head>
