@@ -9,57 +9,56 @@ description: Казино без верификации позволяют на�
   сохраняя анонимность транзакций. Игра в казино онлайн без верификации возможна...
 ---
 
-<p><span id="docs-internal-guid-57fae017-7fff-a3d9-6ba1-fdacc2a52b1a"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Казино без верификации позволяют начать игру сразу после регистрации, сохраняя анонимность транзакций. Игра в казино онлайн без верификации возможна благодаря таким технологиям, как криптовалютные кошельки. Удобство и скорость доступа к играм привлекают гемблеров в </span><a href="https://casinozeus.net/ru/belarus" style="text-decoration-line: none;"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: #1155cc; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;">лучшие онлайн казино Беларуси</span></a><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">. Не нужно прикладывать сканированные копии документов или селфи с ними в личный кабинет, а также ждать одобрения заявки. Это особенно актуально для новичков, не желающих тратить время на сложные процедуры верификации. Посетители могут сохранить анонимность, вывода значительные выигрыши за короткие сроки.</span></span></p>
-<h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><span id="docs-internal-guid-9f7e56b4-7fff-be99-4284-3d1f24b026d6"><span style="font-size: 17pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Особенности онлайн казино без верификации</span></span></h2>
-<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-9f7e56b4-7fff-be99-4284-3d1f24b026d6"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Онлайн казино без документов позволяют осуществлять игру на деньги без верификации. Безопасность игроков в таких игорных заведениях обеспечивается, благодаря технологии блокчейн и SSL-шифрованию данных. Преимущества таких сайтов заключаются в следующих пунктах:</span></span></p>
-<ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-	<li aria-level="1" dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-		<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;"><span id="docs-internal-guid-9f7e56b4-7fff-be99-4284-3d1f24b026d6"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">анонимность;</span></span></p>
+<p>Казино без верификации позволяют начать игру сразу после регистрации, сохраняя анонимность транзакций. Игра в казино онлайн без верификации возможна благодаря таким технологиям, как криптовалютные кошельки. Удобство и скорость доступа к играм привлекают гемблеров в <a href="https://casinozeus.net/ru/belarus">лучшие онлайн казино Беларуси</a>. Не нужно прикладывать сканированные копии документов или селфи с ними в личный кабинет, а также ждать одобрения заявки. Это особенно актуально для новичков, не желающих тратить время на сложные процедуры верификации. Посетители могут сохранить анонимность, вывода значительные выигрыши за короткие сроки.</p>
+<h2 dir="ltr">Особенности онлайн казино без верификации</h2>
+<p dir="ltr">Онлайн казино без документов позволяют осуществлять игру на деньги без верификации. Безопасность игроков в таких игорных заведениях обеспечивается, благодаря технологии блокчейн и SSL-шифрованию данных. Преимущества таких сайтов заключаются в следующих пунктах:</p>
+<ul>
+	<li aria-level="1" dir="ltr">
+		<p dir="ltr" role="presentation">анонимность;</p>
 	</li>
-	<li aria-level="1" dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-		<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-9f7e56b4-7fff-be99-4284-3d1f24b026d6"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">гарантия честности и защита клиентов;</span></span></p>
+	<li aria-level="1" dir="ltr">
+		<p dir="ltr" role="presentation">гарантия честности и защита клиентов;</p>
 	</li>
-	<li aria-level="1" dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-		<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-9f7e56b4-7fff-be99-4284-3d1f24b026d6"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">сокращение срока перевода призовых средств;</span></span></p>
+	<li aria-level="1" dir="ltr">
+		<p dir="ltr" role="presentation">сокращение срока перевода призовых средств;</p>
 	</li>
-	<li aria-level="1" dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-		<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:12pt;"><span id="docs-internal-guid-9f7e56b4-7fff-be99-4284-3d1f24b026d6"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">повышение информационной безопасности и сокращение рисков утечек данных;</span></span></p>
+	<li aria-level="1" dir="ltr">
+		<p dir="ltr" role="presentation">повышение информационной безопасности и сокращение рисков утечек данных;</p>
 	</li>
 </ul>
-<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-9f7e56b4-7fff-be99-4284-3d1f24b026d6"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Из недостатков можно выделить усложнение решения споров и проблем, так как у казино недостаточно информации об игроке. Гемблер не сможет обратиться в арбитраж, в случае возникновения проблем.</span></span></p>
+<p dir="ltr">Из недостатков можно выделить усложнение решения споров и проблем, так как у казино недостаточно информации об игроке. Гемблер не сможет обратиться в арбитраж, в случае возникновения проблем.</p>
 <div>
-	<h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 17pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Законодательство Беларуси и онлайн казино</span></span></h2>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Несмотря на то, что работа онлайн казино Беларуси легализована, она контролируется правительством и уполномоченными органами. Законодательство онлайн казино в Беларуси разрешает существовать игорным заведениям при наличии у юрлица лицензии.</span></span></p>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Перед выбором онлайн казино гемблерам важно прочесть отзывы и убедиться в надежности сайта. Также безопасность во многом зависит от времени существования бренда на рынке. Проверенный бренд с многолетним опытом обеспечит комфортную игру.</span></span></p>
-	<h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 17pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Лучшие онлайн казино Беларуси без верификации</span></span></h2>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Лучшие онлайн казино Беларуси предоставляют игрокам доступ без верификации. Список </span><a href="https://casinozeus.net/ru/no-verification-v-belarusi" style="text-decoration-line: none;"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: #1155cc; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space-collapse: preserve;">казино онлайн без верификации</span></a><span style="font-size: 11pt; font-family: Arial, sans-serif; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> </span><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">приведён ниже:</span></span></p>
-	<ol style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-		<li aria-level="1" dir="ltr" style="list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-			<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">Vavada.</span></span></p>
+	<h2 dir="ltr">Законодательство Беларуси и онлайн казино</h2>
+	<p dir="ltr">Несмотря на то, что работа онлайн казино Беларуси легализована, она контролируется правительством и уполномоченными органами. Законодательство онлайн казино в Беларуси разрешает существовать игорным заведениям при наличии у юрлица лицензии.</p>
+	<p dir="ltr">Перед выбором онлайн казино гемблерам важно прочесть отзывы и убедиться в надежности сайта. Также безопасность во многом зависит от времени существования бренда на рынке. Проверенный бренд с многолетним опытом обеспечит комфортную игру.</p>
+	<h2 dir="ltr">Лучшие онлайн казино Беларуси без верификации</h2>
+	<p dir="ltr">Лучшие онлайн казино Беларуси предоставляют игрокам доступ без верификации. Список <a href="https://casinozeus.net/ru/no-verification-v-belarusi">казино онлайн без верификации</a> приведён ниже:</p>
+	<ol>
+		<li aria-level="1" dir="ltr">
+			<p dir="ltr" role="presentation">Vavada.</p>
 		</li>
-		<li aria-level="1" dir="ltr" style="list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-			<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">Riobet.</span></span></p>
+		<li aria-level="1" dir="ltr">
+			<p dir="ltr" role="presentation">Riobet.</p>
 		</li>
-		<li aria-level="1" dir="ltr" style="list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-			<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">Fairspin.</span></span></p>
+		<li aria-level="1" dir="ltr">
+			<p dir="ltr" role="presentation">Fairspin.</p>
 		</li>
-		<li aria-level="1" dir="ltr" style="list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-			<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">Vulkan Club.</span></span></p>
+		<li aria-level="1" dir="ltr">
+			<p dir="ltr" role="presentation">Vulkan Club.</p>
 		</li>
-		<li aria-level="1" dir="ltr" style="list-style-type: decimal; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-			<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">Betwinner.</span></span></p>
+		<li aria-level="1" dir="ltr">
+			<p dir="ltr" role="presentation">Betwinner.</p>
 		</li>
 	</ol>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Казино Vavada, основанное в имеет лицензию Кюрасао. Мультиязычный интерфейс и широкий ассортимент слотов обеспечивают комфортную игру в любое время суток.</span></span></p>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Казино Riobet также не отстаёт от конкурентов. Сайт основан в 2014 году, обеспечивает анонимность и имеет мобильную версию.</span></span></p>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Казино Fairspin, основанное в 2018 году, отличается быстрым выводом средств и наличием игр с живыми дилерами.</span></span></p>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Казино Vulkan Club было основано в 2014 году. Несмотря на отсутствие лицензии, техническая поддержка осуществляет решение трудных ситуаций. Коммуникабельные и приветливые специалисты ответят на ваши вопросы в любое время суток.</span></span></p>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Последнее казино в рейтинге &mdash; Betwinner. Азартное заведение отличается наличием ставок на спорт, широким выбором платёжных систем для вывод и пополнения.</span></span></p>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Пользователи отзываются обо всех перечисленных сайтах положительно, отмечая удобный и интуитивно понятный интерфейс, широкий выбор слотов и платёжных систем, бонусы, быстрый вывод, а также работу службы поддержки.</span></span></p>
-	<h2 dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 16pt; font-family: Arial, sans-serif; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Сравнительная таблица популярных онлайн казино без верификации</span></span></h2>
-	<br>
-	<div align="left" dir="ltr" style="margin-left:0pt;">
-		<table style="border-width: initial; border-style: none; border-color: initial; border-collapse: collapse; table-layout: fixed; width: 451.276pt;">
+	<p dir="ltr">Казино Vavada, основанное в имеет лицензию Кюрасао. Мультиязычный интерфейс и широкий ассортимент слотов обеспечивают комфортную игру в любое время суток.</p>
+	<p dir="ltr">Казино Riobet также не отстаёт от конкурентов. Сайт основан в 2014 году, обеспечивает анонимность и имеет мобильную версию.</p>
+	<p dir="ltr">Казино Fairspin, основанное в 2018 году, отличается быстрым выводом средств и наличием игр с живыми дилерами.</p>
+	<p dir="ltr">Казино Vulkan Club было основано в 2014 году. Несмотря на отсутствие лицензии, техническая поддержка осуществляет решение трудных ситуаций. Коммуникабельные и приветливые специалисты ответят на ваши вопросы в любое время суток.</p>
+	<p dir="ltr">Последнее казино в рейтинге &mdash; Betwinner. Азартное заведение отличается наличием ставок на спорт, широким выбором платёжных систем для вывод и пополнения.</p>
+	<p dir="ltr">Пользователи отзываются обо всех перечисленных сайтах положительно, отмечая удобный и интуитивно понятный интерфейс, широкий выбор слотов и платёжных систем, бонусы, быстрый вывод, а также работу службы поддержки.</p>
+	<h2 dir="ltr">Сравнительная таблица популярных онлайн казино без верификации</h2>
+	<div dir="ltr">
+		<table>
 			<colgroup>
 				<col>
 				<col>
@@ -68,123 +67,122 @@ description: Казино без верификации позволяют на�
 				<col>
 			</colgroup>
 			<tbody>
-				<tr style="height:0pt">
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Казино</span></span></p>
+				<tr>
+					<td>
+						<p dir="ltr">Казино</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Ассортимент игр</span></span></p>
+					<td>
+						<p dir="ltr">Ассортимент игр</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Бонусы</span></span></p>
+					<td>
+						<p dir="ltr">Бонусы</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Надежность</span></span></p>
+					<td>
+						<p dir="ltr">Надежность</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Отзывы игроков</span></span></p>
-					</td>
-				</tr>
-				<tr style="height:0pt">
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Vavada</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">4000+</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">100% до $1000 + 100 FS</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Высокая</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Положительные</span></span></p>
+					<td>
+						<p dir="ltr">Отзывы игроков</p>
 					</td>
 				</tr>
-				<tr style="height:0pt">
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Riobet</span></span></p>
+				<tr>
+					<td>
+						<p dir="ltr">Vavada</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">2000+</span></span></p>
+					<td>
+						<p dir="ltr">4000+</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">225% + 70 FS</span></span></p>
+					<td>
+						<p dir="ltr">100% до $1000 + 100 FS</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Средняя</span></span></p>
+					<td>
+						<p dir="ltr">Высокая</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Положительные</span></span></p>
-					</td>
-				</tr>
-				<tr style="height:0pt">
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Fairspin</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">3000+</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">450% + 140 FS</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Высокая</span></span></p>
-					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Положительные</span></span></p>
+					<td>
+						<p dir="ltr">Положительные</p>
 					</td>
 				</tr>
-				<tr style="height:0pt">
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Vulkan Club</span></span></p>
+				<tr>
+					<td>
+						<p dir="ltr">Riobet</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">1500+</span></span></p>
+					<td>
+						<p dir="ltr">2000+</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">100 000 + 225 FS</span></span></p>
+					<td>
+						<p dir="ltr">225% + 70 FS</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Средняя</span></span></p>
+					<td>
+						<p dir="ltr">Средняя</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Смешанные</span></span></p>
+					<td>
+						<p dir="ltr">Положительные</p>
 					</td>
 				</tr>
-				<tr style="height:0pt">
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Betwinner</span></span></p>
+				<tr>
+					<td>
+						<p dir="ltr">Fairspin</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">2500+</span></span></p>
+					<td>
+						<p dir="ltr">3000+</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">4450 BYN + 150 FS</span></span></p>
+					<td>
+						<p dir="ltr">450% + 140 FS</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Высокая</span></span></p>
+					<td>
+						<p dir="ltr">Высокая</p>
 					</td>
-					<td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;">
-						<p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Положительные</span></span></p>
+					<td>
+						<p dir="ltr">Положительные</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p dir="ltr">Vulkan Club</p>
+					</td>
+					<td>
+						<p dir="ltr">1500+</p>
+					</td>
+					<td>
+						<p dir="ltr">100 000 + 225 FS</p>
+					</td>
+					<td>
+						<p dir="ltr">Средняя</p>
+					</td>
+					<td>
+						<p dir="ltr">Смешанные</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p dir="ltr">Betwinner</p>
+					</td>
+					<td>
+						<p dir="ltr">2500+</p>
+					</td>
+					<td>
+						<p dir="ltr">4450 BYN + 150 FS</p>
+					</td>
+					<td>
+						<p dir="ltr">Высокая</p>
+					</td>
+					<td>
+						<p dir="ltr">Положительные</p>
 					</td>
 				</tr>
 			</tbody>
 		</table>
 	</div>
-	<br>
-	<h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 17pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Альтернативы и советы для безопасной игры</span></span></h2>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Советы для игроков онлайн казино по выбору надёжного игорного заведения:</span></span></p>
-	<ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;">
-		<li aria-level="1" dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-			<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:12pt;margin-bottom:0pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">прочтите отзывы других пользователей о выбранном вами игровом заведении;</span></span></p>
+	<h2 dir="ltr">Альтернативы и советы для безопасной игры</h2>
+	<p dir="ltr">Советы для игроков онлайн казино по выбору надёжного игорного заведения:</p>
+	<ul>
+		<li aria-level="1" dir="ltr">
+			<p dir="ltr" role="presentation">прочтите отзывы других пользователей о выбранном вами игровом заведении;</p>
 		</li>
-		<li aria-level="1" dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre;">
-			<p dir="ltr" role="presentation" style="line-height:1.38;margin-top:0pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap: wrap;">проверьте наличие лицензии.</span></span></p>
+		<li aria-level="1" dir="ltr">
+			<p dir="ltr" role="presentation">проверьте наличие лицензии.</p>
 		</li>
 	</ul>
-	<p dir="ltr" style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Безопасная игра в казино означает внимательный и ответственный подход. Внимательно ознакомьтесь с правилами игрового заведения и политикой конфиденциальности. Также во время осуществления игровой сессии не рекомендуется использовать общественный Wi-Fi, так как данные могут быть перехвачены злоумышленниками.</span></span></p>
-	<h2 dir="ltr" style="line-height:1.38;margin-top:18pt;margin-bottom:4pt;"><span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 17pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Заключение</span></span></h2>
-	<span id="docs-internal-guid-f6ef9126-7fff-e293-d07f-4ab2836f92ac"><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">Онлайн казино без верификации позволяют осуществить быстрый доступ к любимым слотам, рулеткам, карточным и настольным играм без предоставления сайту личной информации. Важно осознанно выбирать игровое заведение, чтобы не стать жертвой мошенников. Посетите лучшие онлайн казино Беларуси</span><span style="font-size: 11pt; font-family: Arial, sans-serif; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"> </span><span style="font-size: 11pt; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">и начните играть прямо сейчас. Поторопитесь, ведь ваши деньги уже ждут.</span></span></div>
+	<p dir="ltr">Безопасная игра в казино означает внимательный и ответственный подход. Внимательно ознакомьтесь с правилами игрового заведения и политикой конфиденциальности. Также во время осуществления игровой сессии не рекомендуется использовать общественный Wi-Fi, так как данные могут быть перехвачены злоумышленниками.</p>
+	<h2 dir="ltr">Заключение</h2>
+	Онлайн казино без верификации позволяют осуществить быстрый доступ к любимым слотам, рулеткам, карточным и настольным играм без предоставления сайту личной информации. Важно осознанно выбирать игровое заведение, чтобы не стать жертвой мошенников. Посетите лучшие онлайн казино Беларуси и начните играть прямо сейчас. Поторопитесь, ведь ваши деньги уже ждут.</div>
 <p>&nbsp;</p>
