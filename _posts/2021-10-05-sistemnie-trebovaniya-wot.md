@@ -2,7 +2,7 @@
 title: Системные требования World of Tanks для ПК
 date: 2021-10-05 08:05:00 Z
 categories:
-- articles
+- guides
 header: Системные требования World of Tanks
 thumb: wot-sistemnye-trebovaniya.jpg
 description: Если ваш компьютер соответствует системным требованиям World of Tanks,
