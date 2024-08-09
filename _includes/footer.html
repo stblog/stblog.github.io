@@ -79,6 +79,25 @@ window.yaContextCb.push(()=>{
 })
 </script>
 
+<!-- Yandex.RTB R-A-1959236-13 -->
+<script>
+(function renderInImage(images) {
+    if (!images.length) {
+        return
+    }
+    const image = images.shift()
+    image.id = `yandex_rtb_R-A-1959236-13-${Math.random().toString(16).slice(2)}`
+    window.yaContextCb.push(() => {
+        Ya.Context.AdvManager.render({
+            "renderTo": image.id,
+            "blockId": "R-A-1959236-13",
+            "type": "inImage"
+        })
+    })
+    renderInImage(images)
+})(Array.from(document.querySelectorAll("img")))
+</script>
+
 
 
 <!-- Top.Mail.Ru counter -->
