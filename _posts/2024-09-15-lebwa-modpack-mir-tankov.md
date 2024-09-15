@@ -2,7 +2,7 @@
 title: 'Сборка модов LeBwa для Мир танков Lesta Games'
 date: 2024-09-15 03:12:00 Z
 categories:
-- articles, mods
+- mods
 header: 'Модпак LeBwa для Мир танков'
 image: "/uploads/lebwa-modpack-mir-tankov.jpg"
 description: Все модификации в сборке LeBwa гармонично внедрены в игру Мир танков, что позволяет им органично сочетаться с общей эстетикой игрового интерфейса. Благодаря этому, данные моды идеально...
