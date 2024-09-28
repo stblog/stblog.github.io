@@ -44,7 +44,9 @@ description: Что такое тайники в STALCRAFT X и зачем он�
 <img src="/uploads/logovo-vaganta.jpg">
 <h3>4.Тайники Кузни</h3>
 <p>Следует искать среди развалин и производственных зданий. Также тайник можно найти, поднявшись по крану и спрыгнув в контейнер.</p>
-video
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nx2vdP6Ln2Q?si=Bja3aEfsep7Ffdbf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>	
 <h3>5.Тайник Лазаря</h3>
 <p>Храмовая топь. Находится рядом с базой Завета, на элеваторе.</p>
 <img src="/uploads/elevator.png">
