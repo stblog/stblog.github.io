@@ -4,7 +4,7 @@ date: 2025-02-24 02:24:00 Z
 categories:
 - news
 header: Событие для кланов «Сопряжение» в Мир танков
-image: "/uploads/invite-codes-mir-tankov.jpg"
+image: "/uploads/kak-poluchit-zoloto-mir-tankov.jpg"
 description: В феврале 2025 года в «Мире танков» начнется событие для кланов под названием «Сопряжение», которое проходит на Глобальной карте. 
 ---
 
