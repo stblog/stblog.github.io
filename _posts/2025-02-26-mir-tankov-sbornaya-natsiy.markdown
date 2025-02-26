@@ -4,7 +4,7 @@ date: 2025-02-26 07:24:00 Z
 categories:
 - news
 header: Встречайте новую сборную нацию!
-image: "/uploads/novaya-natsia.jpg"
+image: "/uploads/novaya-natsia.JPG"
 description: В обновлении 1.33 в Мире Танков появляется новая нация – Сборная, объединяющая лучшие танковые разработки разных стран. 
 ---
 
