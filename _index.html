@@ -6,7 +6,7 @@ layout: default
 	<div class="container-xl">
 		<div class="row">
 			<div class="col-xl-8 col-lg-8 col-md-8">
-				{% assign c = site.posts %}
+				{% assign c = site.categories.news %}
 				<div class="big-item">
 					<a href="{{ c[0].url }}">
 						<div class="big-item-img">
@@ -90,7 +90,7 @@ layout: default
 			<h2><strong>ИНТЕРЕСНЫЕ</strong> СТАТЬИ</h2>
 		</div>	
 		
-		{% for post in site.categories.articles limit:7 %} 
+		{% for post in site.categories.articles limit:3 %} 
 			<div class="row list-item">
 				<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4">
 					<div class="list-item-img">
