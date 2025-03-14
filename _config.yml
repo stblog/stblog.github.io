@@ -13,7 +13,7 @@ description: Информационный портал игры World of Tanks. 
   и гайды для игроков, тактика игры, обзоры танков. Скачать моды для World of Tanks
   и подборки модов для игры...
 baseurl: 
-url: https://protanks.ru
+url: https://playtanks.ru
 permalink: "/:title"
 theme: minima
 plugins:
