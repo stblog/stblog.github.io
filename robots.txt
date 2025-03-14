@@ -1,7 +1,0 @@
-User-agent: *
-#Disallow: /google1f7301e*
-#Disallow: /yandex_9717e2*
-Disallow: /
-
-Sitemap: https://playtanks.ru/sitemap.xml
-Host: https://playtanks.ru/
