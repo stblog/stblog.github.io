@@ -1,5 +1,5 @@
 ---
-title: World of Tanks | Мир боевых танков
+title: Мир танков Lesta Games
 timezone: UTC
 collections:
   posts:
@@ -9,9 +9,7 @@ collections:
     title: Uploads
     output: true
 email: mikhailyand@ya.ru
-description: Информационный портал игры World of Tanks. Актуальные новости WoT, инструкции
-  и гайды для игроков, тактика игры, обзоры танков. Скачать моды для World of Tanks
-  и подборки модов для игры...
+description: Информационный портал игры "Мир танков" от Lesta Games: новости, гайды, тактические рекомендации и обзоры техники.
 baseurl: 
 url: https://playtanks.ru
 permalink: "/:title"
