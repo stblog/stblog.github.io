@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: mikhailyand@ya.ru
-description: Информационный портал игры "Мир танков" от Lesta Games: новости, гайды, тактические рекомендации и обзоры техники.
+description: Информационный портал игры "Мир танков" от Lesta Games: новости, гайды, тактические рекомендации и обзоры боевой техники.
 baseurl: 
 url: https://playtanks.ru
 permalink: "/:title"
