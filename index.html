@@ -13,7 +13,7 @@ layout: default
 							<img src='{{ c[0].image }}'>
 						</div>
 						<div class="big-item-title">
-							<h3>{% if c[0].header %}{{ c[0].header | escape }}{% else %}{{ c[0].title | escape }}{% endif %}</h3>
+							<h3 style="display: NONE;">{% if c[0].header %}{{ c[0].header | escape }}{% else %}{{ c[0].title | escape }}{% endif %}</h3>
 							<time datetime='{{ c[0].date|date:"%d.%m.%Y" }}' class="item-published"><i class="fa fa-calendar" aria-hidden="true"></i> {{ c[0].date|date:"%d.%m.%Y" }}</time>
 						</div>
 					</a>	
@@ -29,7 +29,7 @@ layout: default
 									<img src='{{ c[1].image }}'>
 								</div>
 								<div class="mini-item-title">
-									<h3>{% if c[1].header %}{{ c[1].header | escape }}{% else %}{{ c[1].title | escape }}{% endif %}</h3>
+									<h3 style="display: NONE;">{% if c[1].header %}{{ c[1].header | escape }}{% else %}{{ c[1].title | escape }}{% endif %}</h3>
 								</div>
 							</a>
 						</div>
@@ -44,7 +44,7 @@ layout: default
 									<img src='{{ c[2].image }}'>
 								</div>
 								<div class="mini-item-title">
-									<h3>{% if c[2].header %}{{ c[2].header | escape }}{% else %}{{ c[2].title | escape }}{% endif %}</h3>
+									<h3 style="display: NONE;">{% if c[2].header %}{{ c[2].header | escape }}{% else %}{{ c[2].title | escape }}{% endif %}</h3>
 								</div>
 							</a>	
 						</div>
