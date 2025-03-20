@@ -104,6 +104,15 @@ ul.h-menu li {
     padding: 40px 15px;	
 }	
 
+.promo-li {
+	color: #fff;
+    background: #b78233;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    padding: 5px 10px;
+}
+
 .top-posts {
     background: #1c1c1c url(/uploads/bg.jpg);
     background-size: contain;
