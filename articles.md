@@ -1,9 +1,7 @@
 ---
-title: Статьи Мир кораблей Lesta Games (World of Tanks)
+title: Статьи
 layout: default
-description: Статьи об игре Мир кораблей Lesta Games (World of Tanks) и других играх.
-  Обзоры будущих обновлений, анонсы новых игр для ПК, обзоры новинок и прохождения
-  игр.
+description: Статьи об игре "Мир танков" Lesta Games и других играх - обзоры обновлений, анонсы новых ПК-игр, новинки и прохождения.
 ---
 
 <div class="container-xl category-page">
