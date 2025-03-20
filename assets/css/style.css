@@ -1,14 +1,14 @@
 .post-page h1.post-title {
     text-transform: none;
-    font-size: 32px;
+    /* font-size: 32px; */
 }
 
 .post-page article h2 {
-    font-size: 27px;
+    /* font-size: 27px; */
 }
 
 .post-page article h3 {
-    font-size: 22px;
+    /* font-size: 22px; */
 }
 
 .post-page article h2, .post-page article h3 {
@@ -58,7 +58,7 @@ header {
     text-decoration: none;
 }
 .main-page h2 {
-	font-size: 24px;
+	/* font-size: 24px; */
 }	
 .big-item-title a, .mini-item-title a {
     color: #fff;
@@ -110,7 +110,7 @@ ul.h-menu li {
     padding: 15px 0;
 }
 .category-page h1, .post-page h1 {
-	font-size: 24px;
+	/* font-size: 24px; */
 	text-transform: uppercase;
 	font-weight: 600;
 }
@@ -130,7 +130,7 @@ ul.h-menu li {
     margin-bottom: 20px;
 }
 .category-page, .post-page article {
-    	margin-bottom: 85px;
+	margin-bottom: 85px;
 }
 .post-img {
 	max-width: 100%;
@@ -188,7 +188,7 @@ article ul li, article ol li {
 }
 .mini-item-img img {
 	max-width: 100%;
-    	height: 203px;
+	height: 203px;
 	object-fit: cover;
 }
 .list-item {
@@ -368,13 +368,13 @@ article table tbody tr:nth-child(even){
 @media (max-width: 1024px) {
 	
 	.big-item-img img {
-	    	height: 436px;
+		height: 436px;
 	}
 	.row-block .mini-item-img img {
-	    	height: 238px;
+		height: 238px;
 	}
 	.row-block {
-	    	margin-bottom: 15px;
+		margin-bottom: 15px;
 	}
 	img.shop-img {
 		max-width: 227px;
@@ -383,69 +383,69 @@ article table tbody tr:nth-child(even){
 }
 @media (max-width: 991px) {
 	ul.h-menu li {
-	    	padding: 40px 10px;
+		padding: 40px 10px;
 	}
 }	
 @media (max-width: 960px) {
 	
 	.mini-item-img img {
-	    	height: 203px;
+		height: 203px;
 	}
 	img.site-logo {
-	    	width: 75px;
+		width: 75px;
 	   	height: auto;
 	}
 	a.site-title {
-	    	font-size: 24px;
+		font-size: 24px;
 	}
 	p.site-description {
-	    	width: 200px;
+		width: 200px;
 	}
 	ul.h-menu li {
-	    	font-size: 15px;
-	    	padding: 40px 10px;
+		font-size: 15px;
+		padding: 40px 10px;
 	}
 	.big-item-img {
-	    	margin-bottom: 30px;
+		margin-bottom: 30px;
 	}
 	.mini-item-title {
 		padding: 10px 35px 15px;
 	}
 	.mini-one .mini-item-title h3, .mini-two .mini-item-title h3 {
 		font-weight: 600;
-    		font-size: 30px;	
+		/* font-size: 30px;	 */
 	}
 	.row-block .mini-item-img img {
-	    	height: 220px;
+		height: 220px;
 	}
 	.row-block {
-	    	margin-bottom: 15px;
+		margin-bottom: 15px;
 	}
 	
 }
 @media (max-width: 768px) {
 	
 	.big-item-img img {
-	    	height: 380px;
+		height: 380px;
 	}
 	.mini-item-img img {
-	    	height: 176px;
+		height: 176px;
 	}
 	.list-item-img img {
-	    	height: 210px;
+		height: 210px;
 	}
 	.row-block .mini-item-img img {
-			height: 270px;
+		height: 270px;
 	}
 	.mini-one .mini-item .mini-item-title h3, .mini-two .mini-item .mini-item-title h3 {
-			font-size: 18px;
-			line-height: 1.333;
+		font-size: 18px;
+		line-height: 1.333;
 	}	
 	.list-item h3 {
-	    	margin-top: 0;
+		margin-top: 0;
 	}
 	ul.h-menu li.hide-mob {
-			display: none ;
+		display: none ;
 	}	
 	img.shop-img {
 		/*display: none;*/
@@ -454,24 +454,24 @@ article table tbody tr:nth-child(even){
 }
 @media (max-width: 660px) {
 	.big-item-img img {
-	    	height: 370px;
+		height: 370px;
 	}
 	ul.h-menu li {
-	    	font-size: 14px;
-	    	padding: 40px 7px;
+		font-size: 14px;
+		padding: 40px 7px;
 	}
 	img.site-logo {
-	    	width: 70px;
+		width: 70px;
 	}
 	.mini-one .mini-item .mini-item-title h3, .mini-two .mini-item .mini-item-title h3 {
-			font-size: 30px;
-			line-height: 1.2;
+		/* font-size: 30px; */
+		line-height: 1.2;
 	}
 }	
 @media (max-width: 640px) {
 	
 	.mini-item-img img {
-	    	height: 326px;
+		height: 326px;
 	}
 }	
 @media (max-width: 610px) {
@@ -480,10 +480,10 @@ article table tbody tr:nth-child(even){
 		margin: 20px 0;
 	}
 	a.site-title {
-	    	font-size: 20px;
+		font-size: 20px;
 	}
 	.site-description {
-	    	display: none;
+		display: none;
 	}
 	a.site-title {
 		margin-bottom: 20px;
@@ -503,29 +503,29 @@ article table tbody tr:nth-child(even){
 @media (max-width: 575px) {
 	
 	.site-branding {
-	    	width: 350px;
-	    	margin: 0 auto;
-	    	float: none;
+		width: 350px;
+		margin: 0 auto;
+		float: none;
 	}
 	a.site-title {
-	    	font-size: 29px;
+		font-size: 29px;
 	}
 	ul.h-menu {
 		display: flex;
-    		justify-content: space-around;	
+		justify-content: space-around;	
 	}	
 	ul.h-menu li {
-	    	font-size: 18px;
-	    	padding: 15px 5px;
+		font-size: 18px;
+		padding: 15px 5px;
 	}
 	.row-block .mini-item-img img {
-	    	height: 295px;
+		height: 295px;
 	}	
 	.list-item-img img {
-	    	height: 295px;
+		height: 295px;
 	}
 	.list-item h3 {
-	    	margin-top: 15px;
+		margin-top: 15px;
 	}
 }	
 @media (max-width: 480px) {
@@ -534,28 +534,28 @@ article table tbody tr:nth-child(even){
 		height: 280px;
 	}
 	.mini-item-img img {
-	    	height: 280px;
+		height: 280px;
 	}
 	.big-item-title h3 {
-	    	font-size: 20px;
+		/* font-size: 20px; */
 	}
 	.mini-one .mini-item-title h3, .mini-two .mini-item-title h3 {
-	    	font-size: 20px;
+		/* font-size: 20px; */
 	}
 }	
 @media (max-width: 360px) {
 	
 	.site-branding {
-	    	width: 305px;
+		width: 305px;
 	}
 	a.site-title {
-	    	font-size: 24px;
+		font-size: 24px;
 	}
 	ul.h-menu {
 		display: none;	
 	}	
 	.mini-one .mini-item .mini-item-title h3, .mini-two .mini-item .mini-item-title h3 {
-			font-size: 20px;
+		/* font-size: 20px; */
 	}
 	img.shop-img {
 		display: block;
