@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: mikhailyand@ya.ru
-description: dfgdfgdfgdfgdfgdfg
+description: dfgdfgdfgdfgdfgdfgsdsdf
 baseurl: 
 url: https://playtanks.ru
 permalink: "/:title"
