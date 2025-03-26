@@ -5,18 +5,45 @@
     <h4><strong>ЧИТАЙТЕ</strong> ТАКЖЕ</h4>
 </div>
 <div class="row">
-	{% for post in site.categories.mods limit:3 %} 
-    <div class="col-12">
+	{% assign c = site.categories.news %}
+	<div class="col-12">
 		<div class="mini-item row-block">
-			<a href="{{ post.url }}">
+			<a href="{{ c[0].url }}">
 				<div class="mini-item-img">
-					<img src='{{ post.image }}'>	
+					<img src='{{ c[0].image }}'>	
 				</div>
 			</a>	
 		</div>	
-		<a href="{{ post.url }}">
-			<h2>{% if post.header %}{{ post.header | escape }}{% else %}{{ post.title | escape }}{% endif %}</h2>
+		<a href="{{ c[0].url }}">
+			<h2>{% if c[0].header %}{{ c[0].header | escape }}{% else %}{{ c[0].title | escape }}{% endif %}</h2>
 		</a>
 	</div>
-	{% endfor %}
+	
+	{% assign g = site.categories.guides %}
+	<div class="col-12">
+		<div class="mini-item row-block">
+			<a href="{{ g[0].url }}">
+				<div class="mini-item-img">
+					<img src='{{ g[0].image }}'>	
+				</div>
+			</a>	
+		</div>	
+		<a href="{{ g[0].url }}">
+			<h2>{% if g[0].header %}{{ g[0].header | escape }}{% else %}{{ g[0].title | escape }}{% endif %}</h2>
+		</a>
+	</div>
+	
+	{% assign a = site.categories.articles %}
+	<div class="col-12">
+		<div class="mini-item row-block">
+			<a href="{{ a[0].url }}">
+				<div class="mini-item-img">
+					<img src='{{ a[0].image }}'>	
+				</div>
+			</a>	
+		</div>	
+		<a href="{{ a[0].url }}">
+			<h2>{% if a[0].header %}{{ a[0].header | escape }}{% else %}{{ a[0].title | escape }}{% endif %}</h2>
+		</a>
+	</div>
 </div>
