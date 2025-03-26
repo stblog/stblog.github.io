@@ -49,6 +49,7 @@ header {
 }	
 .h-menu a, .list-item a {
     color: #1e1d15;
+	text-transform: uppercase;
 }
 .h-menu a:hover, .h-menu a:focus {
     color: #577d15;		
@@ -110,7 +111,7 @@ ul.h-menu li {
     -webkit-border-radius: 25px;
     -moz-border-radius: 25px;
     border-radius: 25px;
-    padding: 5px 10px;
+    padding: 4px 10px 7px;
 }
 
 .top-posts {
