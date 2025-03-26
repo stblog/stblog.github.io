@@ -62,7 +62,16 @@ header {
 }
 .main-page h2 {
 	/* font-size: 24px; */
+	margin-bottom: 25px;
 }	
+.main-page h2 strong {
+	border-bottom: 3px solid #577d15;
+    color: #577d15;
+}	
+.main-page h4 strong {
+	border-bottom: 3px solid #577d15;
+    color: #577d15;
+}
 .big-item-title a, .mini-item-title a {
     color: #fff;
     text-decoration: none;
