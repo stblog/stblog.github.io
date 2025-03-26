@@ -1,6 +1,6 @@
 ---
 title: 'Оборудование в игре'
-date: 2023-04-28 12:25:00 Z
+date: 2025-03-26 11:25:00 Z
 categories:
 - guides
 image: "/uploads/oborudovanie-mir-tankov.jpg"

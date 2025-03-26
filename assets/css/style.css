@@ -270,6 +270,7 @@ article ul li, article ol li {
     z-index: 2;
 }
 .mini-item-title h3 {
+	display: none;
     font-family: poppins,sans-serif;
     font-size: 18px;
     line-height: 1.333;
