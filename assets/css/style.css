@@ -49,6 +49,8 @@ header {
 }	
 .h-menu a, .list-item a {
     color: #1e1d15;
+}
+.h-menu a {
 	text-transform: uppercase;
 }
 .h-menu a:hover, .h-menu a:focus {
