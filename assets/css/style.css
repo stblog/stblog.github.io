@@ -35,7 +35,7 @@ img.shop-img {
 }
 
 a {
-    color: #b78233;
+    color: #577d15;
     text-decoration: none;
 }
 a:focus, a:hover {
@@ -51,10 +51,10 @@ header {
     color: #1e1d15;
 }
 .h-menu a:hover, .h-menu a:focus {
-    color: #b78233;		
+    color: #577d15;		
 }	
 .list-item a:focus, .list-item a:hover {
-    color: #b78233;
+    color: #577d15;
     text-decoration: none;
 }
 .main-page h2 {
@@ -90,7 +90,7 @@ a.site-title {
 }	
 a.site-title:hover, a.site-title:focus {
     text-decoration: none;
-    color: #b78233;	
+    color: #577d15;	
 }
 .site-description {
     margin-bottom: 30px;
@@ -106,7 +106,7 @@ ul.h-menu li {
 
 .h-menu a.promo-li {
 	color: #fff;
-    background: #b78233;
+    background: #577d15;
     -webkit-border-radius: 25px;
     -moz-border-radius: 25px;
     border-radius: 25px;
@@ -295,7 +295,7 @@ a.dl-mod {
 }	
 .sidebar a:hover, .sidebar a:focus {
     text-decoration: none;
-    color: #b78233;	
+    color: #577d15;	
 }
 .sidebar h2 {
     font-family: poppins,sans-serif;
