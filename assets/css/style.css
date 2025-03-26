@@ -126,8 +126,8 @@ ul.h-menu li {
 }
 
 .top-posts {
-    background: #1c1c1c url(/uploads/bg.jpg);
-    background-size: contain;
+    background: #1c1c1c url(/uploads/bg1.jpg);
+    background-size: cover;
     padding: 15px 0;
 }
 .category-page h1, .post-page h1 {
@@ -166,7 +166,7 @@ ul.h-menu li {
 	max-width: 870px;
 }
 footer {
-    background: #1c1c1c url(/uploads/bg.jpg);
+    background: #1c1c1c url(/uploads/bg1.jpg);
     background-size: auto;
     padding: 15px 0;
     color: #fff;
