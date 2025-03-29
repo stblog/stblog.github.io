@@ -35,10 +35,10 @@ description: Актуальные инвайт-коды в марте 2025 го�
 Стартовый набор ресурсов доступен при регистрации нового аккаунте в игре. Вот список ресурсов, которые получит новый игрок:
 
 <ul>
-<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/eb4ff14…_1696511859.png'); background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">Премиум танк IV уровня</li>
-<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/bcb6896143fbf9c9fae7c83ce11656a1_1696510346.png'); background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">7 дней Танкового премиум аккаунта</li>
-<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/baaed6a92f3114fd48c9453b20a7b15f_1696510397.png'); background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">500 золота (за 10 боёв) и 250 000 кредитов</li>
-<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/b6b68a614910f996b517e97b1406f197_1696510559.png'); background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">Танк VI уровня в аренду</li>
+<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/eb4ff1458d6c79c06a029669a1dfa53f_1696511859.png'); line-height: 30px; background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">Премиум танк IV уровня</li>
+<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/bcb6896143fbf9c9fae7c83ce11656a1_1696510346.png'); line-height: 30px; background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">7 дней Танкового премиум аккаунта</li>
+<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/baaed6a92f3114fd48c9453b20a7b15f_1696510397.png'); line-height: 30px; background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">500 золота (за 10 боёв) и 250 000 кредитов</li>
+<li style="background-image: url('https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/b6b68a614910f996b517e97b1406f197_1696510559.png'); line-height: 30px; background-size: 45px; background-repeat: no-repeat; padding-left: 55px;">Танк VI уровня в аренду</li>
 </ul>
 
 [altext](https://lms-runet-cdn.lesta.ru/LESTA-BONUS-RUTANKS-MTPUB-3048/b6b68a614910f996b517e97b1406f197_1696510559.png)
