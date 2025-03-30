@@ -80,3 +80,23 @@ description: Актуальные инвайт-коды в марте 2025 го�
 * Премиум-аккаунт - это специальный статус аккаунта, который дает игрокам дополнительные бонусы, такие как увеличение опыта, золота, кредитов или свободного опыта за каждый бой.
 
 Надеюсь, эта статья оказалась для вас полезной и помогла лучше разобраться в игре "Мир танков". Используйте инвайт-коды, представленные выше, в этом месяце, чтобы начать игру с ощутимыми преимуществами.
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+
+    var disqus_config = function () {
+    this.page.url = https://playtanks.ru/invait-kody-mir-tankov;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = invait-kody-mir-tankov; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://playtanks-ru.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
