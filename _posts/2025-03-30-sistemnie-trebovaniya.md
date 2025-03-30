@@ -116,10 +116,10 @@ layout: post
 <p>Для обеспечения стабильной работы игры рекомендуется установить актуальные версии драйверов видеокарты и DirectX. Это поможет избежать графических артефактов и других визуальных проблем.</p>
 <p><strong>Драйверы видеокарт:</strong></p>
 <ul>
-	<li style="background-image: url('https://ru-wotp.lesta.ru//dcont/fb/image/nvidia.png'); line-height: 30px; background-size: 30px; background-repeat: no-repeat; padding-left: 45px;">
+	<li style="list-style-type: none; background-image: url('https://ru-wotp.lesta.ru//dcont/fb/image/nvidia.png'); line-height: 30px; background-size: 30px; background-repeat: no-repeat; padding-left: 45px;">
 		<p><strong>NVIDIA</strong>: Обновите драйверы до последней версии, доступной на официальном сайте NVIDIA.</p>
 	</li>
-	<li style="background-image: url('https://ru-wotp.lesta.ru//dcont/fb/image/amd.png'); line-height: 30px; background-size: 30px; background-repeat: no-repeat; padding-left: 45px;">
+	<li style="list-style-type: none; background-image: url('https://ru-wotp.lesta.ru//dcont/fb/image/amd.png'); line-height: 30px; background-size: 30px; background-repeat: no-repeat; padding-left: 45px;">
 		<p><strong>AMD</strong>: Посетите сайт AMD для загрузки и установки последних драйверов.</p>
 	</li>
 </ul>
