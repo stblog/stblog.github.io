@@ -88,7 +88,7 @@ description: Актуальные инвайт-коды в марте 2025 го�
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
 
     var disqus_config = function () {
-    this.page.url = https://playtanks.ru/invait-kody-mir-tankov;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = playtanks.ru/invait-kody-mir-tankov;  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = invait-kody-mir-tankov; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
 
