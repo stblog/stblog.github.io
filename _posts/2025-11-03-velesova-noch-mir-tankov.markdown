@@ -4,7 +4,7 @@ date: 2025-11-03 02:42:00 Z
 categories:
 - news
 header: В "Мире танков" проходит событие "Велесова ночь"
-thumb: sberspasibo-mir-tankov.jpg
+thumb: velesova-noch-mir-tankov.jpg
 description: В "Мире танков" началось событие "Велесова ночь". Главная награда — новый
   премиум-танк Т-44 «Шторм», который можно получить за прохождение цепочки наборов.
 image: "/uploads/velesova-noch-mir-tankov.jpg"
