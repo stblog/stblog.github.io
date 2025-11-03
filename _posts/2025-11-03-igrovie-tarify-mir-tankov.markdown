@@ -6,7 +6,7 @@ categories:
 header: Игровые тарифы для "Мир танков" от "Ростелеком" и "Дом.ру"
 thumb: igrovie-tarify-mir-tankov.jpg
 description: Разработчики Мир танков и провайдеры "Ростелеком" и "Дом.ру" предлагают
-  игрокам игрвоые тарифы...
+  игрокам игровые тарифы...
 image: "/uploads/igrovie-tarify-mir-tankov.jpg"
 ---
 
