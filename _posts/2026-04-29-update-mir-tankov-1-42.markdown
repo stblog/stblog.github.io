@@ -4,7 +4,7 @@ date: 2026-04-29 02:33:00 Z
 categories:
 - news
 header: Обновление Мир танков 1.42 «Торжество победы»
-image: "/uploads/promokody-mir-tankov.jpg"
+image: "/uploads/update-1-42.jpg"
 description: Полный обзор патча Мир танков 1.42 «Торжество победы - от легендарной
   «Катюши» в PVE-режимах до сборки премиум-танка OTAC LK-7605.
 ---
