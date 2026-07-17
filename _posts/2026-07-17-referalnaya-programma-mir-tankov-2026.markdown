@@ -4,7 +4,7 @@ date: 2026-07-17 02:33:00 Z
 categories:
 - news
 header: Реферальная программа Мир танков 2026 - летнее событие, новые награды и правила
-image: "/uploads/referalka-2026-mir-tankov.jpg"
+image: "/uploads/referalka-2026-mir-tankov-leto.png"
 description: Участвуйте в летнем событии реферальной программы «Мир танков» 2026.
   Забирайте до 50 000 золота, новый танк X Roland и премиум технику за игру взводом.
 ---
