@@ -20,7 +20,7 @@ description: Актуальный инвайт-код для Мира танко
 			<th>Награда</th>
 		</tr>
 		<tr>
-			<td><strong>MTSTART</strong></td>
+			<td><span style="color: red;"><strong>MTSTART</strong></span></td>
 			<td>2 500 золота, 30 дней премиум аккаунта, 2 500 000 серебра, танки &laquo;Объект 244&raquo; и &laquo;Валентайн II&raquo;, универсальные руководства и личные резервы</td>
 		</tr>
 	</tbody>
