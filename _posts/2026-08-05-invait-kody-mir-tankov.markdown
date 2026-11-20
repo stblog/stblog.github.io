@@ -71,7 +71,7 @@ description: Актуальный инвайт-код для Мира танко
 <p>Чтобы получить бонусы, выполните следующие действия:</p>
 <ol>
 	<li>
-		<p>Перейдите на официальный сайт <a href="https://lesta.ru/" rel="nofollow">Lesta Games</a>.</p>
+		<p>Перейдите на официальный сайт <a href="https://lesta.ru/" rel="nofollow" target="_blank">Lesta Games</a>.</p>
 	</li>
 	<li>
 		<p>Нажмите кнопку создания аккаунта.</p>
@@ -128,7 +128,7 @@ description: Актуальный инвайт-код для Мира танко
 		</tr>
 	</tbody>
 </table>
-<p>Другие действующие предложения ищите в нашей статье <a href="https://playtanks.ru/promokody-mir-tankov">с промокодами для Мира танков</a>.</p>
+<p>Другие действующие предложения ищите в нашей статье <a href="/promokody-mir-tankov" target="_blank">с промокодами для Мира танков</a>.</p>
 <h2>Почему инвайт-код не работает?</h2>
 <p>Если при регистрации появляется ошибка, проверьте несколько возможных причин:</p>
 <ul>
@@ -148,15 +148,15 @@ description: Актуальный инвайт-код для Мира танко
 		<p><strong>Ограничения акции.</strong> У конкретного предложения могут быть дополнительные условия.</p>
 	</li>
 </ul>
-<p>Если проблема сохраняется, обратитесь в <a href="https://lesta.ru/support/" rel="nofollow">официальную поддержку Lesta Games</a>.</p>
+<p>Если проблема сохраняется, обратитесь в <a href="https://lesta.ru/support/" rel="nofollow" target="_blank">официальную поддержку Lesta Games</a>.</p>
 <h2>Где искать новые инвайт-коды?</h2>
 <p>Чтобы не пропустить новые бонусы, следите за официальными источниками:</p>
 <ul>
 	<li>
-		<p><a href="https://tanki.su/" rel="nofollow">Официальный портал &laquo;Мира танков&raquo;</a>.</p>
+		<p><a href="https://tanki.su/" rel="nofollow" target="_blank">Официальный портал &laquo;Мира танков&raquo;</a>.</p>
 	</li>
 	<li>
-		<p><a href="https://lesta.ru/support/" rel="nofollow">База знаний Lesta Games</a>.</p>
+		<p><a href="https://lesta.ru/support/" rel="nofollow" target="_blank">База знаний Lesta Games</a>.</p>
 	</li>
 	<li>
 		<p>Официальные сообщества игры и публикации об акциях.</p>
