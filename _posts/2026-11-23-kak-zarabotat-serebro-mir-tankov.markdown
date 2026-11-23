@@ -227,8 +227,8 @@ image: "/uploads/kak-zarabotat-serebro-mir-tankov.jpg"
 <script>
 
     var disqus_config = function () {
-    this.page.url = playtanks.ru/promokody-mir-tankov;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = promokody-mir-tankov; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = playtanks.ru/kak-zarabotat-serebro-mir-tankov;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = kak-zarabotat-serebro-mir-tankov; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
 
     (function() { // DON'T EDIT BELOW THIS LINE
