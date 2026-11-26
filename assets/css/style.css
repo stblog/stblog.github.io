@@ -590,3 +590,85 @@ article table tbody tr:nth-child(even){
 		max-width: 100%;
 	}
 }
+
+
+/* FAQ — PlayTanks */
+
+.faq-section {
+    margin: 35px 0;
+    padding: 25px;
+    background: #f3f6fa;
+    border: 1px solid #dce3ec;
+    border-radius: 10px;
+}
+
+.faq-section .faq-title {
+    margin: 0 0 22px;
+    padding-bottom: 15px;
+    color: #24364b;
+    font-size: 25px;
+    font-weight: 700;
+    border-bottom: 2px solid #d5a12b;
+}
+
+.faq-section .faq-item {
+    margin: 0 0 12px;
+    padding: 17px 20px;
+    background: #ffffff;
+    border: 1px solid #e1e7ef;
+    border-left: 4px solid #d5a12b;
+    border-radius: 6px;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.faq-section .faq-item:last-child {
+    margin-bottom: 0;
+}
+
+.faq-section .faq-item:hover {
+    border-left-color: #24364b;
+    box-shadow: 0 3px 12px rgba(30, 50, 75, 0.07);
+}
+
+.faq-section .faq-question {
+    margin: 0 0 10px;
+    color: #24364b;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.45;
+}
+
+.faq-section .faq-answer {
+    color: #4d5968;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.faq-section .faq-answer p {
+    margin: 0;
+}
+
+/* Адаптация для мобильных устройств */
+
+@media (max-width: 600px) {
+    .faq-section {
+        margin: 25px 0;
+        padding: 15px;
+    }
+
+    .faq-section .faq-title {
+        font-size: 21px;
+    }
+
+    .faq-section .faq-item {
+        padding: 14px 15px;
+    }
+
+    .faq-section .faq-question {
+        font-size: 16px;
+    }
+
+    .faq-section .faq-answer {
+        font-size: 14px;
+    }
+}
